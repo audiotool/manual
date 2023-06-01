@@ -1,23 +1,36 @@
 # Audiotool Documentation
 
-Website: https://audiotool.github.io/docs/
+Read the documentation at https://audiotool.github.io/docs/.
 
-## Setup
+This repository contains the source files shown on the documentation website.
 
-### Setup dependencies
+## Contributing
 
-* install sphinx: `sudo apt install python3-sphinx`
+**Everyone's welcome to contribute!** 
+
+If you feel like a page could be improved / rewritten, please [create a pull request](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) with your changes. 
+
+In general, all manual pages are located in the [manuals](/manuals/) directory. They're all either:
+* [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (with [MyST](https://myst-parser.readthedocs.io/en/latest/syntax/typography.html#syntax-core) flavour) if they end with `.md`, or
+*  [reStructured](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) if they end with `.rst`.
+
+You can modify files there, or add new files. If you add a new directory, reference them from [index.rst](/index.rst) so they become visible at the top level. See instructions below to see your changes locally before commiting. 
+
+### Build locally
+
+#### Setup dependencies
+
+* [install sphinx](https://www.sphinx-doc.org/en/master/usage/installation.html)
 * install theme: `python3 -m pip install sphinx-press-theme`
 * install markdown parser: `python3 -m pip install myst-parser`
 
-### Build
+#### Build
 
 ```
 make html
 ```
 
-
-### View
+#### View
 
 ```
 cd _build/html && python3 -m http.server
