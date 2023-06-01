@@ -14,7 +14,9 @@ In general, all manual pages are located in the [manuals](/manuals/) directory. 
 * [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) (with [MyST](https://myst-parser.readthedocs.io/en/latest/syntax/typography.html#syntax-core) flavour) if they end with `.md`, or
 *  [reStructured](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) if they end with `.rst`.
 
-You can modify files there, or add new files. If you add a new directory, reference them from [index.rst](/index.rst) so they become visible at the top level. See instructions below to see your changes locally before commiting. 
+You can modify files there, or add new files. If you add a new directory, reference them from [index.rst](/index.rst) so they become visible at the top level. If you want to add images, put them inside the `_static` directory.
+
+See instructions below to see your changes locally before commiting. 
 
 ### Build locally
 
