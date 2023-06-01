@@ -1,7 +1,7 @@
 # Machiniste
 
 The Machiniste is a Drum computer that eats samples rather than having
-in-built internal sounds like the Beatbox 8 or the Beatbox 9 drum
+in-built internal sounds like the Tr808 or the Tr909 drum
 machines. The Machiniste allows for samples to be dragged from the
 sample browser into 9 different possible channels. Once a sample has
 been loaded to one of the channels it is then possible to set where you

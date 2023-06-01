@@ -32,7 +32,7 @@ pattern containing 8 possible patterns and an edit range of 64 steps.
     these buttons will allow you to double of half the number of steps
     in your sequence, from 2-4, from 16-32 etc.etc.)
 3.  **edit range** - The sequencer contains 16 step buttons but the
-    Beatbox 8 allows for sequences up to 64 steps long. This control
+    Tr808 allows for sequences up to 64 steps long. This control
     allows for you to use the same 16 buttons to edit a 64 step sequence
     by reusing the same step buttons to edit different parts of the
     sequence.
