@@ -11,8 +11,8 @@ special is that it is possible to draw exactly where you want each
 filter to go on the devices display, with the frequency being displayed
 horizontally and the gain being displayed vertically.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/eq1.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/eq1.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/eq1.png")
+![ /images/eq1.png]( /images/eq1.png
+" /images/eq1.png")
 
 **Below:** The below image shows the 2 filter controls and their
 planet/satellites. Everything that can be done with the filter's
@@ -21,8 +21,8 @@ as well as this both filter's can be controlled at the same time by
 using the global planet/satellites found in the center of the graphical
 display.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/eq2.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/eq2.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/eq2.png")
+![ /images/eq2.png]( /images/eq2.png
+" /images/eq2.png")
 
 The above image also shows the the devices master gain and dry/wet
 controls. The gain controls the overall gain of the device and the
@@ -44,8 +44,8 @@ of shortcuts which can be used to change the behaviour of the planets.
 **NOTE:** The below example only shows filter(A) working since both
 filters controls work in exactly the same way.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/eq\_wave2.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/eq_wave2.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/eq_wave2.png")
+![ /images/eq\_wave2.png]( /images/eq_wave2.png
+" /images/eq_wave2.png")
 
 1.  **gain** - The gain works on the vertical axis, the higher the gain
     the more that frequency range will be boosted. The gain has a range

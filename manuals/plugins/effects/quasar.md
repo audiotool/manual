@@ -13,13 +13,13 @@ This device is based on a plate algorithm by Jon Dattorro (1997)
 
 [Example Tracks](https://www.audiotool.com/album/1gm0xz/)
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-full.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-full.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-full.png")
+![ /images/reverb-full.png]( /images/reverb-full.png
+" /images/reverb-full.png")
 
 ###### Input Section
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-input.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-input.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-input.png")
+![ /images/reverb-input.png]( /images/reverb-input.png
+" /images/reverb-input.png")
 
 1.  pre-delay time - the time between the start of the initial sound and
     the beginning of the first reflections being audible
@@ -32,8 +32,8 @@ This device is based on a plate algorithm by Jon Dattorro (1997)
 
 ###### Output Section
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-output.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-output.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-output.png")
+![ /images/reverb-output.png]( /images/reverb-output.png
+" /images/reverb-output.png")
 
 1.  dry level - the amount of the dry signal to pass through
 2.  wet level - the amount of the wet signal to pass through
@@ -41,8 +41,8 @@ This device is based on a plate algorithm by Jon Dattorro (1997)
 
 ###### Plate Section
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-plate.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-plate.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-plate.png")
+![ /images/reverb-plate.png]( /images/reverb-plate.png
+" /images/reverb-plate.png")
 
 1.  decay - the length of the decay
 2.  damping - the amount of damping that is applied on each feedback
@@ -50,8 +50,8 @@ This device is based on a plate algorithm by Jon Dattorro (1997)
 
 ###### Diffuse Section
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-diffuse.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-diffuse.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-diffuse.png")
+![ /images/reverb-diffuse.png]( /images/reverb-diffuse.png
+" /images/reverb-diffuse.png")
 
 1.  input - the amount of diffusion for the input circuit (most diffused
     near the center; least diffused on either extremes; resonates when
@@ -62,8 +62,8 @@ This device is based on a plate algorithm by Jon Dattorro (1997)
 
 ###### Vibrato Section
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-vibrato.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-vibrato.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb-vibrato.png")
+![ /images/reverb-vibrato.png]( /images/reverb-vibrato.png
+" /images/reverb-vibrato.png")
 
 1.  amount - the amount of the vibrato
 2.  frequency - the frequency of the vibrato

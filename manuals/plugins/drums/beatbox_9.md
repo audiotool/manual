@@ -10,8 +10,8 @@ to sound more realistic since some of the instruments are sampled drum
 hits as well as this the device has a much rounder and clearer overall
 sound than the Beatbox 8.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beatbox91.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beatbox91.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beatbox91.png")
+![ /images/beatbox91.png]( /images/beatbox91.png
+" /images/beatbox91.png")
 
 ###### Instrument Controls
 
@@ -22,8 +22,8 @@ can be added to the sequence at a time. Each instrument has its own set
 of parameter controls which allow for the sound of each instrument to be
 modified individually.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beatbox2.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beatbox2.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beatbox2.png")
+![ /images/beatbox2.png]( /images/beatbox2.png
+" /images/beatbox2.png")
 
 1.  **instrument select** - Use this button to select what instrument
     you want to use. Red denotes that the instrument is currently
@@ -52,8 +52,8 @@ sequencer is found. Once an instrument has been selected you can start
 building up your drum sequence by adding instrument hits to the
 sequencer by selecting the sequence buttons.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beatbox3.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beatbox3.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beatbox3.png")
+![ /images/beatbox3.png]( /images/beatbox3.png
+" /images/beatbox3.png")
 
 1.  **scale** - Allows definition of what scale your sequence will be
     using.

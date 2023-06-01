@@ -19,8 +19,8 @@ be utilized for purposes other than drums, for example effects can be
 layered onto the device to create far-out, analogue-esque basslines.
 (works especially well with lots of distortion)
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beat\_eight.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beat_eight.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beat_eight.png")
+![ /images/beat\_eight.png]( /images/beat_eight.png
+" /images/beat_eight.png")
 
 ###### Instrument Controls
 
@@ -31,8 +31,8 @@ can be added to the sequence at a time. Each instrument has its own set
 of parameter controls which allow for the sound of each instrument to be
 modified individually.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beat\_eight2.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beat_eight2.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beat_eight2.png")
+![ /images/beat\_eight2.png]( /images/beat_eight2.png
+" /images/beat_eight2.png")
 
 1.  **instrument select** - This huge wheel makes it possible to toggle
     sequentially through the device's different instruments. NOTE:
@@ -75,8 +75,8 @@ sequencer is found. Once an instrument has been selected you can start
 building up your drum sequence by adding instrument hits to the
 sequencer by selecting the sequence buttons.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beat\_eight3.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beat_eight3.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/beat_eight3.png")
+![ /images/beat\_eight3.png]( /images/beat_eight3.png
+" /images/beat_eight3.png")
 
 1.  **pattern length** - Displays the length of your sequence.
 2.  **pattern +/-** - Allow for the length of your sequence to be

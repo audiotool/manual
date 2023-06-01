@@ -12,14 +12,14 @@ another device like the Tonematrix as a sequencer (for maximum editing
 power using a Note Track is advised). The Pulverisateur can be broken
 down into easily understood sections:
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur1.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur1.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur1.png")
+![ /images/pulverisateur1.png]( /images/pulverisateur1.png
+" /images/pulverisateur1.png")
 
 **(Below)** example of the Tonematrix being used to sequence the
 Pulverisateur by utilising the note IN feature
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur2.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur2.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur2.png")
+![ /images/pulverisateur2.png]( /images/pulverisateur2.png
+" /images/pulverisateur2.png")
 
 ###### Oscillators
 
@@ -29,8 +29,8 @@ parameters and can each be programmed to produce exactly the same sound.
 The only difference being the sync and keyboard track options found on
 OSC2 and OSC3.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur3.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur3.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur3.png")
+![ /images/pulverisateur3.png]( /images/pulverisateur3.png
+" /images/pulverisateur3.png")
 
 1.  **on/off** - Allows for the separate activation of each oscillator.
 2.  **panning** - Controls the stereo position of each oscillator.
@@ -58,8 +58,8 @@ could be used as a root source to create a new sound. For example it is
 possible to make drum hits or other experimental sounds with the noise
 unit.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur4.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur4.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur4.png")
+![ /images/pulverisateur4.png]( /images/pulverisateur4.png
+" /images/pulverisateur4.png")
 
 1.  **on/off** - Activates or de-activates the noise unit.
 2.  **panning** - Controls the stereo position of the noise signal.
@@ -79,8 +79,8 @@ NOTE: The inputed audio signal will only be heard if the there are notes
 in the Pulverisateur's note track or on whatever device is being used to
 sequence the pulverisateur.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur5.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur5.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur5.png")
+![ /images/pulverisateur5.png]( /images/pulverisateur5.png
+" /images/pulverisateur5.png")
 
 1.  **on/off** - Turns the audio input on or off.
 2.  **panning** - Controls the stereo position of the inputed audio.
@@ -96,8 +96,8 @@ will cut most of the higher frequencies while passing the low
 frequencies) and a lowpass/highpass combination (Depending on the filter
 spacing, this filter type smoothly blends from notch to bandpass).
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur6.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur6.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur6.png")
+![ /images/pulverisateur6.png]( /images/pulverisateur6.png
+" /images/pulverisateur6.png")
 
 1.  **filter mode** - The filter has 2 modes: lowpass/lowpass or
     lowpass/highpass.
@@ -123,8 +123,8 @@ LFO stands for low-frequency oscillator. The LFO is an electronic signal
 generator that gives a rhythmic pulse or sweep, this pulse or sweep can
 be used to modulate the synths audio signal.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur7.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur7.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur7.png")
+![ /images/pulverisateur7.png]( /images/pulverisateur7.png
+" /images/pulverisateur7.png")
 
 1.  **wave selector** Select the shape of the LFO. Like the OSC.
     waveform selector you can click on the waveforms to turn the knob
@@ -156,8 +156,8 @@ of the controls, this is because both the filter envelope and the AMP
 envelope work in the same way only one is affecting the filter and the
 other the AMP.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur8.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur8.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur8.png")
+![ /images/pulverisateur8.png]( /images/pulverisateur8.png
+" /images/pulverisateur8.png")
 
 1.  **Attack** - The speed at which the filter/AMP starts once it has
     been triggered.
@@ -176,8 +176,8 @@ The Master includes output volume control and the output itself (just
 above the master volume control). The master also includes the
 Pulverisateur's master tuning control.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur9.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur9.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pulverisateur9.png")
+![ /images/pulverisateur9.png]( /images/pulverisateur9.png
+" /images/pulverisateur9.png")
 
 1.  **volume** - Master volume, the volume of the output signal.
 2.  **mono/poly** - When the device is set to mono it means that the

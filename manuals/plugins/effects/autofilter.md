@@ -3,8 +3,8 @@
 The autofilter is a filter that can have its cut-off frequency altered
 either by the inputed signal or by its side-chain input (if used).
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/autofilter2.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/autofilter2.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/autofilter2.png")
+![ /images/autofilter2.png]( /images/autofilter2.png
+" /images/autofilter2.png")
 
 1.  **attack** - How fast the filter movement will reach its maximum
     depth.

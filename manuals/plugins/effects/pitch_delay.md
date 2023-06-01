@@ -19,5 +19,5 @@ signal will be changed.
     the original signal will stay the same, only the pitch of the played
     back delay signal will be affected.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pdelay.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pdelay.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/pdelay.png")
+![ /images/pdelay.png]( /images/pdelay.png
+" /images/pdelay.png")

@@ -13,5 +13,5 @@ voice sound like a choir of voices or to make underwater effects.
   - **depth** - Adjusts the depth of the effect.
   - **spread** - Adjusts the perceived width of the of effect.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/chorus.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/chorus.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/chorus.png")
+![ /images/chorus.png]( /images/chorus.png
+" /images/chorus.png")

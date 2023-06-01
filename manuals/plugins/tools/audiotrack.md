@@ -9,5 +9,5 @@ possible to drag a loop straight from the sample browser to the desktop.
 An Audiotrack will then be automatically created and the sample added to
 the timeline.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/audiotrack.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/audiotrack.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/audiotrack.png")
+![ /images/audiotrack.png]( /images/audiotrack.png
+" /images/audiotrack.png")

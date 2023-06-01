@@ -11,5 +11,5 @@ thickness to the original signal.
   - **blend** - Changes the character of the distortion.
   - **gain** - Output volume.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/tube.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/tube.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/tube.png")
+![ /images/tube.png]( /images/tube.png
+" /images/tube.png")

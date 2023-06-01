@@ -13,5 +13,5 @@ sound a richer feel.
     for example if the left channel is de-tuned then the right channel
     will be delayed)
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/stereodetune.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/stereodetune.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/stereodetune.png")
+![ /images/stereodetune.png]( /images/stereodetune.png
+" /images/stereodetune.png")

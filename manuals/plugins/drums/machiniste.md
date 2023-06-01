@@ -13,8 +13,8 @@ each sample individually, these parameters each have their own set of
 modulation controls which allow for different parameter setting to be
 applied to each step in the sequence.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste1.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste1.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste1.png")
+![ /images/machiniste1.png]( /images/machiniste1.png
+" /images/machiniste1.png")
 
 ###### Sequencer Controls
 
@@ -23,8 +23,8 @@ change the specifications of your sequence, how long it is, which
 pattern you have selected, how much modulation is applied and the
 device's master volume control.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste3.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste3.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste3.png")
+![ /images/machiniste3.png]( /images/machiniste3.png
+" /images/machiniste3.png")
 
 1.  **Pattern banks** There are 4 pattern banks A, B, C and D
 2.  **Pattern** Use these buttons to toggle through the pattern bank's
@@ -66,8 +66,8 @@ the Machiniste's step modulation. Upon adding a step it is possible to
 drag up or down (before releasing the mouse) to raise or lower that
 steps modulation value.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste4.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste4.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste4.png")
+![ /images/machiniste4.png]( /images/machiniste4.png
+" /images/machiniste4.png")
 
 1.  **Channel list** The channel list includes all loaded samples.
     Samples are dragged from the sample browser into empty spaces in the
@@ -112,8 +112,8 @@ modulation control that lives just beneath it. Although the below image
 only highlights the start and level modulation controls, all of the
 parameter's modulation controls work in the same way.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste5.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste5.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/machiniste5.png")
+![ /images/machiniste5.png]( /images/machiniste5.png
+" /images/machiniste5.png")
 
 1.  **Start** Sample start position.
 2.  **Start mod.** The start's modulation is set to -50% while the start

@@ -14,8 +14,8 @@ but The Rasselbock could also be used to completely change a sound or to
 totally change the structure of your track depending on where in your
 processing chain you use it.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock1.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock1.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock1.png")
+![ /images/rasselbock1.png]( /images/rasselbock1.png
+" /images/rasselbock1.png")
 
 ###### Pattern Options
 
@@ -23,8 +23,8 @@ Like the drum machines and other devices which include internal
 sequencers The Rasselbock has 4 pattern banks A, B, C and D with each
 pattern containing 8 possible patterns and an edit range of 64 steps.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock2.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock2.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock2.png")
+![ /images/rasselbock2.png]( /images/rasselbock2.png
+" /images/rasselbock2.png")
 
 1.  **length** - Displays the length of your sequence.
 2.  **length +/-** - Allow for the length of your sequence to be
@@ -60,8 +60,8 @@ if you only want part of the arrangement to be processed by an effect or
 by a chain of effects. All of the outputs have a set of controls to the
 right of the grid as well as mute and solo buttons for each channel.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock3.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock3.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock3.png")
+![ /images/rasselbock3.png]( /images/rasselbock3.png
+" /images/rasselbock3.png")
 
 1.  **channel list** - Lists the output channels.
 2.  **sequencing grid** - Open the output channels by drawing blocks
@@ -100,8 +100,8 @@ combinations that can be assembled. Like the output channels each effect
 has a mute and solo button for muting that effect or for playing it
 alone.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock4.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock4.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/rasselbock4.png")
+![ /images/rasselbock4.png]( /images/rasselbock4.png
+" /images/rasselbock4.png")
 
 1.  **sequencing grid** - Blocks can be drawn into the sequencing grid.
     Drawing blocks in the sequencing grid will activate the

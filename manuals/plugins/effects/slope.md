@@ -13,5 +13,5 @@ highpass, notch and bandpass.
   - **bandpass** - Passes frequencies within a specified range and
     attenuates frequencies outside of that range.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/slope.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/slope.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/slope.png")
+![ /images/slope.png]( /images/slope.png
+" /images/slope.png")

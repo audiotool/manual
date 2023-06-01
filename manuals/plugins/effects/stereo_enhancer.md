@@ -6,8 +6,8 @@ spread. This device works by splitting the frequency band of the inputed
 signal and then delaying the higher frequencies before merging the
 signals back together.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/stereo2.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/stereo2.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/stereo2.png")
+![ /images/stereo2.png]( /images/stereo2.png
+" /images/stereo2.png")
 
 1.  **invert** - Inverts the delay of the stereo channels.
 2.  **tone** - Specifies the cut-off frequency above which the stereo
