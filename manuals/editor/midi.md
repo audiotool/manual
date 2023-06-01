@@ -1,4 +1,4 @@
-# Midi Setup Page
+# Midi
 
 Midi has been improved by providing a big dialog to check connected
 midi-devices and edit or remove midi-connections. Midi setups will be
