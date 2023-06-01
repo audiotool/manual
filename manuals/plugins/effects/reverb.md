@@ -13,5 +13,5 @@ simulate the effect of reverberation.
     Low frequencies are passed while high frequencies are filtered out.
   - **level** - Output volume.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/reverb.png")
+![ /images/reverb.png]( /images/reverb.png
+" /images/reverb.png")

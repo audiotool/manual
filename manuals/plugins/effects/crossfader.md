@@ -28,5 +28,5 @@ controls for each channel and master volume and balance controls.
     right through the right stereo channel.
   - **level** - The level is the Crossfader's master volume control.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/crossfader.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/crossfader.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/crossfader.png")
+![ /images/crossfader.png]( /images/crossfader.png
+" /images/crossfader.png")

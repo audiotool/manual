@@ -10,8 +10,8 @@ note to be played to be programmed into the device manually. Make a
 repetitive pattern and automate the filter controls as well as using the
 effect pedals to create full-on early 90s acid techno\!
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline.png")
+![ /images/bassline.png]( /images/bassline.png
+" /images/bassline.png")
 
 ###### Notes and Sequencing
 
@@ -21,8 +21,8 @@ first using the step index to decide on what step in the sequence you
 wan to be played and then adding a note to that step by selecting the
 required note by using the sequencing buttons.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline2.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline2.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline2.png")
+![ /images/bassline2.png]( /images/bassline2.png
+" /images/bassline2.png")
 
 1.  **pattern length** - This number denotes how many steps your
     sequence has.
@@ -60,8 +60,8 @@ The middle area of the device is where you can toggle through the
 devices different internal patterns. This area also includes the
 Bassline's master volume control.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline3.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline3.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline3.png")
+![ /images/bassline3.png]( /images/bassline3.png
+" /images/bassline3.png")
 
 1.  **pattern selector** - The pattern wheel allows for you to toggle
     through the different patterns within the selected pattern bank.
@@ -77,8 +77,8 @@ controls can be found, as well as controls for some of the devices
 parameters. This is where the sound of the the device can really be
 defined. This is where the magic happens…
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline1.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline1.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/bassline1.png")
+![ /images/bassline1.png]( /images/bassline1.png
+" /images/bassline1.png")
 
 1.  **waveform selector** - Determines whether the device generates
     either a sawtooth or a square wave.

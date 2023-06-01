@@ -24,5 +24,5 @@ unchanged.
     input signal before its level has been compared to the threshold,
     allowing for more relaxed compression.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/compressor.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/compressor.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/compressor.png")
+![ /images/compressor.png]( /images/compressor.png
+" /images/compressor.png")

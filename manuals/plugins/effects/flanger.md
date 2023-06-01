@@ -12,5 +12,5 @@ effect.
     effect.
   - **depth(LFO)** - Increases the amplitude of the LFO.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/flanger.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/flanger.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/flanger.png")
+![ /images/flanger.png]( /images/flanger.png
+" /images/flanger.png")

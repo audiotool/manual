@@ -20,5 +20,5 @@ sound.
     smoothly change from closed to open much like a slow fade out.
   - **gain** - Output volume.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/gate.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/gate.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/gate.png")
+![ /images/gate.png]( /images/gate.png
+" /images/gate.png")

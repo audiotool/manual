@@ -10,11 +10,11 @@ doing this it is possible to control how much each channel is affected
 by the inputed effect or effects with each channels individual AUX
 controls.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/minimixer.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/minimixer.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/minimixer.png")
+![ /images/minimixer.png]( /images/minimixer.png
+" /images/minimixer.png")
 
 *(Below) Example of Minimixer utilising the AUX feature with the Reverb
 effect pedal.*
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/minimixer+reverb.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/minimixer+reverb.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/minimixer+reverb.png")
+![ /images/minimixer+reverb.png]( /images/minimixer+reverb.png
+" /images/minimixer+reverb.png")

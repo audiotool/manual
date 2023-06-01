@@ -12,5 +12,5 @@ input (where possible) If this is done the Tone Matrix can be used to
 sequence the connected device but no sound will be coming from the Tone
 Matrix itself.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/tonematrix01.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/tonematrix01.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/tonematrix01.png")
+![ /images/tonematrix01.png]( /images/tonematrix01.png
+" /images/tonematrix01.png")

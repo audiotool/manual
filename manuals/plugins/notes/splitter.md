@@ -6,5 +6,5 @@ input on the left side of the Splitter and then a maximum of three
 separate but identical audio signals can be routed from the outputs
 labelled A, B and C on the right side of the Splitter.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/splitter.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/splitter.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/splitter.png")
+![ /images/splitter.png]( /images/splitter.png
+" /images/splitter.png")

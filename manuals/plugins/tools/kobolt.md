@@ -9,5 +9,5 @@ plugged into the Kobolt would go through the effect pedal and have the
 effect applied to it. If you would be using a Kobolt as your main mixer
 its output would be plugged into the input for the master output.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/kobolt.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/kobolt.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/kobolt.png")
+![ /images/kobolt.png]( /images/kobolt.png
+" /images/kobolt.png")

@@ -36,15 +36,15 @@ Create or use an existing audio-track device. Use either the red record
 button in the track header or the corresponding item in the context menu
 to start the recording function.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-01.jpg](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-01.jpg
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-01.jpg")
+![ /images/ar-01.jpg]( /images/ar-01.jpg
+" /images/ar-01.jpg")
 
 ###### Step 2
 
 Wait for the mix-down to complete.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-02.jpg](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-02.jpg
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-02.jpg")
+![ /images/ar-02.jpg]( /images/ar-02.jpg
+" /images/ar-02.jpg")
 
 ###### Step 3
 
@@ -53,24 +53,24 @@ volume of your microphone and headphones so that the sound peaks into
 the green area. Once you get the same time value twice, we assume that
 we've measured your system's latency and you can advance.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-03.jpg](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-03.jpg
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-03.jpg")
+![ /images/ar-03.jpg]( /images/ar-03.jpg
+" /images/ar-03.jpg")
 
 ###### Step 4
 
 Record your audio. After clicking Stop you can preview your recording,
 upload or record again.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-05.jpg](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-05.jpg
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-05.jpg")
+![ /images/ar-05.jpg]( /images/ar-05.jpg
+" /images/ar-05.jpg")
 
 ###### Step 5
 
 If you click the Upload button, your recording will be sent to our
 sample editor Probe for further processing.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-06.jpg](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-06.jpg
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/ar-06.jpg")
+![ /images/ar-06.jpg]( /images/ar-06.jpg
+" /images/ar-06.jpg")
 
 ###### Step 6
 

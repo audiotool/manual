@@ -9,8 +9,8 @@ of controls which can be used to determine how much the signal from each
 channel is affected by the inputed effects. The Centroid is a very tough
 machine that will still work even if you stand on it.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid1.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid1.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid1.png")
+![ /images/centroid1.png]( /images/centroid1.png
+" /images/centroid1.png")
 
 ###### Channel Controls
 
@@ -21,8 +21,8 @@ below image only labels the parameters of Channel 3.
 **NOTE:** *The below image only shows the controls found on channel 3
 although all channel parameters work the same way for each channel.*
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid2.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid2.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid2.png")
+![ /images/centroid2.png]( /images/centroid2.png
+" /images/centroid2.png")
 
 1.  **gain** - Control over the channels input gain.
 2.  **high** - Allows controls over the inputed signals high
@@ -64,8 +64,8 @@ aux 1 and 2.
 **NOTE:** *The below image only shows the controls for aux 1 since the
 controls for aux 1 and 2 are exactly the same.*
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid5.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid5.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid5.png")
+![ /images/centroid5.png]( /images/centroid5.png
+" /images/centroid5.png")
 
 1.  **output** - This is the Centroid's master output, this is where all
     of the channels are merged together into one cable.
@@ -95,5 +95,5 @@ are labelled on the above image.
 **Below:** *The below image shows a Reverb effect pedal utilising
 send/return with aux 1.*
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid4.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid4.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/centroid4.png")
+![ /images/centroid4.png]( /images/centroid4.png
+" /images/centroid4.png")

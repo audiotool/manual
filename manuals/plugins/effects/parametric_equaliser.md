@@ -13,5 +13,5 @@ or to combat unwanted sounds.
   - **bandwidth** - Allows definition of the width of the frequency
     range.
 
-![https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/peq.png](https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/peq.png
-"https://at-cdn-s02.audiotool.com/static-pictures/manual-pictures/peq.png")
+![ /images/peq.png]( /images/peq.png
+" /images/peq.png")
