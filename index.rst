@@ -15,7 +15,6 @@ Welcome to the documentation of `audiotool.com`_!
 .. _audiotool.com: https://www.audiotool.com
 
 
-
 Basics
 ~~~~~~
 .. toctree::
@@ -81,6 +80,14 @@ Effects
    :glob:
 
    manuals/plugins/effects/*
+
+Notes
+~~~~~
+.. toctree::
+   :maxdepth: 1
+   :glob:
+
+   manuals/plugins/notes/*
 
 Other
 ~~~~~
