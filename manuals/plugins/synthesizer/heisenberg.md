@@ -19,8 +19,8 @@ Heisenberg also supports Unisono which means up to 4 different voices
 can be triggered by one note, with detuning and stereo separation for
 each voice.
 
-![ /images/hei1.png]( /images/hei1.png
-" /images/hei1.png")
+![/images/hei1.png](/images/hei1.png
+"/images/hei1.png")
 
 ###### Operators and Mod Matrix
 
@@ -36,8 +36,8 @@ cut-off frequency. Deciding what modulates what is done by plotting
 percentages in the modulation matrix, this is done by holding down the
 mouse and dragging up or down to add a value to the grid.
 
-![ /images/hei\_operator2.png]( /images/hei_operator2.png
-" /images/hei_operator2.png")
+![/images/hei\_operator2.png](/images/hei_operator2.png
+"/images/hei_operator2.png")
 
 1.  **waveform(B)** - Selecting the waveform image will navigate to the
     wavetable. The default waveform for all operators is a sine wave.
@@ -90,8 +90,8 @@ for the decay phase to be looped, as well as this the exponential slope
 since the main envelope and envelopes 2 and 3 all work in exactly the
 same way.
 
-![ /images/hei\_env3.png]( /images/hei_env3.png
-" /images/hei_env3.png")
+![/images/hei\_env3.png](/images/hei_env3.png
+"/images/hei_env3.png")
 
 1.  **attack handle** - Allows for the attack phase to be manually
     changed by dragging it around the display (although not labelled
@@ -122,8 +122,8 @@ enabled by using the pitch envelope on/off buttons beside each operator.
 Like the other envelopes the pitch envelope includes handles so that the
 shape of the envelope can be manually dragged around the display.
 
-![ /images/hei\_pitch\_env2.png]( /images/hei_pitch_env2.png
-" /images/hei_pitch_env2.png")
+![/images/hei\_pitch\_env2.png](/images/hei_pitch_env2.png
+"/images/hei_pitch_env2.png")
 
 1.  **attack handle** - Allows for the pitch envelope's attack phase to
     be altered by manually dragging the handle around the display.
@@ -163,8 +163,8 @@ modulate.
 **Below:** The below image only references LFO1 since both LFO1 and LFO2
 work in exactly the same way.
 
-![ /images/hei\_lfo1.png]( /images/hei_lfo1.png
-" /images/hei_lfo1.png")
+![/images/hei\_lfo1.png](/images/hei_lfo1.png
+"/images/hei_lfo1.png")
 
 1.  **waveform** - Select this button to specify which waveform the LFO
     will use. Choose 1 of the same 49 waveforms that is available with
@@ -190,8 +190,8 @@ keyboard tracking option which includes positive and negative values.
 The filter allows the user to choose between 12, 24, 36 and 48 decibels
 for each octave.
 
-![ /images/hei\_filter1.png]( /images/hei_filter1.png
-" /images/hei_filter1.png")
+![/images/hei\_filter1.png](/images/hei_filter1.png
+"/images/hei_filter1.png")
 
 1.  **x/y handle** - The x/y handle allows for both the filters cut-off
     frequency and resonance with one handle. The vertical axis
@@ -216,8 +216,8 @@ controls for glide, tuning, velocity and volume. The unisono
 functionality is also included in the master controls. If Unisono is
 activated it will affect all of the waveforms being produced by the
 
-![ /images/hei\_master2.png]( /images/hei_master2.png
-" /images/hei_master2.png")
+![/images/hei\_master2.png](/images/hei_master2.png
+"/images/hei_master2.png")
 
 1.  **noteIN** - This input allows for the Tonematrix to be used to
     sequence Heisenberg.

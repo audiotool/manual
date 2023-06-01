@@ -7,5 +7,5 @@ the inputs labelled A, B and C on the left side of the Merger and then 1
 audio signal can be routed from the output on the right side of the
 Merger.
 
-![ /images/merger.png]( /images/merger.png
-" /images/merger.png")
+![/images/merger.png](/images/merger.png
+"/images/merger.png")

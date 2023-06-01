@@ -15,5 +15,5 @@ to the parameters set with the effects controls.
   - **level** - The Level is the volume of the processed delay signal in
     relation to the unprocessed, original signal.
 
-![ /images/delay.png]( /images/delay.png
-" /images/delay.png")
+![/images/delay.png](/images/delay.png
+"/images/delay.png")

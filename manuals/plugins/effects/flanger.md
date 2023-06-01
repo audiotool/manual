@@ -12,5 +12,5 @@ effect.
     effect.
   - **depth(LFO)** - Increases the amplitude of the LFO.
 
-![ /images/flanger.png]( /images/flanger.png
-" /images/flanger.png")
+![/images/flanger.png](/images/flanger.png
+"/images/flanger.png")

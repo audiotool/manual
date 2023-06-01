@@ -16,5 +16,5 @@ effect for producers making harder-edged, industrial dance music.
   - **mix** - Controls how much of the processed signal is mixed with
     the original, unprocessed signal.
 
-![ /images/crusher.png]( /images/crusher.png
-" /images/crusher.png")
+![/images/crusher.png](/images/crusher.png
+"/images/crusher.png")

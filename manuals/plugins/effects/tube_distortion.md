@@ -11,5 +11,5 @@ thickness to the original signal.
   - **blend** - Changes the character of the distortion.
   - **gain** - Output volume.
 
-![ /images/tube.png]( /images/tube.png
-" /images/tube.png")
+![/images/tube.png](/images/tube.png
+"/images/tube.png")

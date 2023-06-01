@@ -36,15 +36,15 @@ Create or use an existing audio-track device. Use either the red record
 button in the track header or the corresponding item in the context menu
 to start the recording function.
 
-![ /images/ar-01.jpg]( /images/ar-01.jpg
-" /images/ar-01.jpg")
+![/images/ar-01.jpg](/images/ar-01.jpg
+"/images/ar-01.jpg")
 
 ###### Step 2
 
 Wait for the mix-down to complete.
 
-![ /images/ar-02.jpg]( /images/ar-02.jpg
-" /images/ar-02.jpg")
+![/images/ar-02.jpg](/images/ar-02.jpg
+"/images/ar-02.jpg")
 
 ###### Step 3
 
@@ -53,24 +53,24 @@ volume of your microphone and headphones so that the sound peaks into
 the green area. Once you get the same time value twice, we assume that
 we've measured your system's latency and you can advance.
 
-![ /images/ar-03.jpg]( /images/ar-03.jpg
-" /images/ar-03.jpg")
+![/images/ar-03.jpg](/images/ar-03.jpg
+"/images/ar-03.jpg")
 
 ###### Step 4
 
 Record your audio. After clicking Stop you can preview your recording,
 upload or record again.
 
-![ /images/ar-05.jpg]( /images/ar-05.jpg
-" /images/ar-05.jpg")
+![/images/ar-05.jpg](/images/ar-05.jpg
+"/images/ar-05.jpg")
 
 ###### Step 5
 
 If you click the Upload button, your recording will be sent to our
 sample editor Probe for further processing.
 
-![ /images/ar-06.jpg]( /images/ar-06.jpg
-" /images/ar-06.jpg")
+![/images/ar-06.jpg](/images/ar-06.jpg
+"/images/ar-06.jpg")
 
 ###### Step 6
 

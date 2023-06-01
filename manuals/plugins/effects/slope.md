@@ -13,5 +13,5 @@ highpass, notch and bandpass.
   - **bandpass** - Passes frequencies within a specified range and
     attenuates frequencies outside of that range.
 
-![ /images/slope.png]( /images/slope.png
-" /images/slope.png")
+![/images/slope.png](/images/slope.png
+"/images/slope.png")
