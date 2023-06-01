@@ -28,7 +28,7 @@ jobs:
 
       - name: Setup packages
         run: |
-          apt install python3-sphinx make
+          sudo apt install python3-sphinx make
           python -m pip install sphinx-press-theme myst-parser
       
       - name: Build
