@@ -18,5 +18,5 @@ the voice of a robot.
     mix, how much of the processed signal is mixed with the original,
     unprocessed signal.
 
-![ /images/phaser.png]( /images/phaser.png
-" /images/phaser.png")
+![/images/phaser.png](/images/phaser.png
+"/images/phaser.png")

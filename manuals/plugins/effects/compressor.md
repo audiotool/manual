@@ -24,5 +24,5 @@ unchanged.
     input signal before its level has been compared to the threshold,
     allowing for more relaxed compression.
 
-![ /images/compressor.png]( /images/compressor.png
-" /images/compressor.png")
+![/images/compressor.png](/images/compressor.png
+"/images/compressor.png")

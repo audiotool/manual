@@ -20,5 +20,5 @@ sound.
     smoothly change from closed to open much like a slow fade out.
   - **gain** - Output volume.
 
-![ /images/gate.png]( /images/gate.png
-" /images/gate.png")
+![/images/gate.png](/images/gate.png
+"/images/gate.png")

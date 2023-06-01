@@ -13,5 +13,5 @@ sound a richer feel.
     for example if the left channel is de-tuned then the right channel
     will be delayed)
 
-![ /images/stereodetune.png]( /images/stereodetune.png
-" /images/stereodetune.png")
+![/images/stereodetune.png](/images/stereodetune.png
+"/images/stereodetune.png")

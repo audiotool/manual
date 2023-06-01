@@ -19,5 +19,5 @@ signal will be changed.
     the original signal will stay the same, only the pitch of the played
     back delay signal will be affected.
 
-![ /images/pdelay.png]( /images/pdelay.png
-" /images/pdelay.png")
+![/images/pdelay.png](/images/pdelay.png
+"/images/pdelay.png")

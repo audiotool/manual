@@ -13,5 +13,5 @@ or to combat unwanted sounds.
   - **bandwidth** - Allows definition of the width of the frequency
     range.
 
-![ /images/peq.png]( /images/peq.png
-" /images/peq.png")
+![/images/peq.png](/images/peq.png
+"/images/peq.png")

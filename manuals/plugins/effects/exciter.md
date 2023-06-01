@@ -5,8 +5,8 @@ by splitting the input signal into two bands and then by adding slight
 amounts of distortion to the higher frequencies before merging the two
 bands back together again.
 
-![ /images/exciter2.png]( /images/exciter2.png
-" /images/exciter2.png")
+![/images/exciter2.png](/images/exciter2.png
+"/images/exciter2.png")
 
 1.  **tone** - Where in the frequency range the excitement will begin.
 2.  **Power** - How much of the input signal will be excited.
