@@ -1,5 +1,7 @@
 # Audiotool Documentation
 
+Website: https://audiotool.github.io/docs/
+
 ## Setup
 
 ### Setup dependencies
