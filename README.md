@@ -24,7 +24,6 @@ See instructions below to see your changes locally before commiting.
 
 * [install sphinx](https://www.sphinx-doc.org/en/master/usage/installation.html)
 * install theme: `python3 -m pip install sphinx-press-theme`
-* install markdown parser: `python3 -m pip install myst-parser`
 
 #### Build
 
