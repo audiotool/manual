@@ -1,12 +1,12 @@
 
-Studio Keyboard Shortcuts
+Keyboard Shortcuts
 =========================
 
 .. note::
    
    You can watch the content of this document on `Youtube <https://www.youtube.com/watch?v=AkaVskB7ths>`_
 
-Application Shortcuts
+Application
 ^^^^^^^^^^^^^^^^^^^^^
 
 -  :kbd:`Shift` + :kbd:`N`: New project
@@ -26,7 +26,7 @@ Application Shortcuts
 -  :kbd:`Shift` + :kbd:`]`: Open previous project window
 -  :kbd:`Space`: Play/stop
 
-Desktop And Timeline Shortcuts
+Desktop And Timeline
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Panning
@@ -37,12 +37,13 @@ Panning
 -  :kbd:`CTRL` + :kbd:`Up`: Pan view up
 -  :kbd:`CTRL` + :kbd:`Down`: Pan view down
 
-Desktop Shortcuts
+Desktop
 ^^^^^^^^^^^^^^^^^
 
 -  :kbd:`Shift` + :kbd:`I`: Select all idle devices
 -  :kbd:`Shift` + :kbd:`U`: Un-cue audio sources and cables
 -  :kbd:`1`, :kbd:`2`, :kbd:`3`, :kbd:`4``: Switch pointer, selection, cue and hand desktop tools.
+-  :kbd:`Tab`: Quick Desktop Navigation (press & hold)
 
 Pointer Tool
 ~~~~~~~~~~~~
@@ -58,7 +59,7 @@ Selection Tool
 
 -  :kbd:`SHIFT` + :kbd:`drag`: Reverse select.
 
-Timeline View Shortcuts
+Timeline View
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 -  :kbd:`1`, :kbd:`2`, :kbd:`3`, :kbd:`4`: Switch pointer, pencil, razor and hand timeline tools.
@@ -78,7 +79,7 @@ Snap
 -  :kbd:`]`: Next snap value.
 -  :kbd:`[`: Previous snap value.
 
-Note Pitch Editor Shortcuts
+Note Pitch Editor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Pointer Tool
@@ -93,7 +94,7 @@ Draw Tool
 -  :kbd:`CTRL` + :kbd:`drag`: Repeat notes with pitch lock.
 -  :kbd:`CTRL` + :kbd:`Shift` + :kbd:`drag`: Repeat notes without pitch lock.
 
-Note Velocity Editor Shortcuts
+Note Velocity Editor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Draw Tool
@@ -101,7 +102,7 @@ Draw Tool
 
 -  :kbd:`Shift` + :kbd:`drag`: Draw velocities with the line tool.
 
-Automation Editor Shortcuts
+Automation Editor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Pointer Tool
