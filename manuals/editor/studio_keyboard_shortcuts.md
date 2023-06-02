@@ -21,7 +21,7 @@
 
 #### Desktop And Timeline Shortcuts
 
-###### Panning
+### Panning
 
   - CTRL+Left: Pan view left
   - CTRL+Right: Pan view right
@@ -34,7 +34,7 @@
   - Shift+U: Un-cue audio sources and cables
   - 1, 2, 3, 4: Switch pointer, selection, cue and hand desktop tools.
 
-###### Pointer Tool
+### Pointer Tool
 
   - SHIFT+click: Add or remove devices to/from the current selection.
   - CTRL+C: Copy the selected devices and their timeline tracks except
@@ -42,7 +42,7 @@
   - CTRL+V: Paste the clipboard contents to the desktop, left bottom
     aligned.
 
-###### Selection Tool
+### Selection Tool
 
   - SHIFT+drag: Reverse select.
 
@@ -50,7 +50,7 @@
 
   - 1, 2, 3, 4: Switch pointer, pencil, razor and hand timeline tools.
 
-###### Zoom
+### Zoom
 
   - \+ (plus): Zoom in, not implemented.
   - \- (minus): Zoom out, not implemented.
@@ -58,32 +58,32 @@
 
 Note: plus and minus take the cursor as a reference if not playing.
 
-###### Snap
+### Snap
 
   - \]: Next snap value.
   - \[: Previous snap value.
 
 #### Note Pitch Editor Shortcuts
 
-###### Pointer Tool
+### Pointer Tool
 
   - SHIFT+drag: Change velocity of selected notes.
   - CTRL+drag: Copy selected notes.
 
-###### Draw Tool
+### Draw Tool
 
   - CTRL+drag: Repeat notes with pitch lock.
   - CTRL+Shift+drag: Repeat notes without pitch lock.
 
 #### Note Velocity Editor Shortcuts
 
-###### Draw Tool
+### Draw Tool
 
   - Shift+drag: Draw velocities with the line tool.
 
 #### Automation Editor Shortcuts
 
-###### Pointer Tool
+### Pointer Tool
 
   - Shift+drag: Move selected key-frames with lock value.
   - Alt+drag: Turn off grid snap, but snap to other event values.

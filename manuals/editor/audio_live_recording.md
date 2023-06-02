@@ -30,7 +30,7 @@ cancellation. Wearing headphones is mandatory.
 
 ## Instructions
 
-###### Step 1
+### Step 1
 
 Create or use an existing audio-track device. Use either the red record
 button in the track header or the corresponding item in the context menu
@@ -39,14 +39,14 @@ to start the recording function.
 ![/images/ar-01.jpg](/images/ar-01.jpg
 "/images/ar-01.jpg")
 
-###### Step 2
+### Step 2
 
 Wait for the mix-down to complete.
 
 ![/images/ar-02.jpg](/images/ar-02.jpg
 "/images/ar-02.jpg")
 
-###### Step 3
+### Step 3
 
 Calibrate your audio system. For best results make sure to adjust the
 volume of your microphone and headphones so that the sound peaks into
@@ -56,7 +56,7 @@ we've measured your system's latency and you can advance.
 ![/images/ar-03.jpg](/images/ar-03.jpg
 "/images/ar-03.jpg")
 
-###### Step 4
+### Step 4
 
 Record your audio. After clicking Stop you can preview your recording,
 upload or record again.
@@ -64,7 +64,7 @@ upload or record again.
 ![/images/ar-05.jpg](/images/ar-05.jpg
 "/images/ar-05.jpg")
 
-###### Step 5
+### Step 5
 
 If you click the Upload button, your recording will be sent to our
 sample editor Probe for further processing.
@@ -72,7 +72,7 @@ sample editor Probe for further processing.
 ![/images/ar-06.jpg](/images/ar-06.jpg
 "/images/ar-06.jpg")
 
-###### Step 6
+### Step 6
 
 Your audio recording is automatically placed in the timeline after
 upload. You are done\!

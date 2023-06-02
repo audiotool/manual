@@ -3,7 +3,7 @@
 The Notesplitter allows you to distribute notes to more than one
 synthesiser.
 
-###### Manual
+### Manual
 
 Either create a note-track or connect another note-producing device to
 the note-splitter. Connect up to three devices with note-inputs to the
@@ -15,7 +15,7 @@ Each output can be muted and modified by the velocity parameter.
   - **min** - velocity is passed as zero
   - **max** - velocity is passed as full
 
-###### Known issues
+### Known issues
 
 While it is technically possible to create connections where you
 introduce loops to the event-flow, we highly recommend you do not. The

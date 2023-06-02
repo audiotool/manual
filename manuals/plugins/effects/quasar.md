@@ -4,7 +4,7 @@ Quasar is a device to simulate reverberation.
 
 This device is based on a plate algorithm by Jon Dattorro (1997)
 
-###### Credits
+### Credits
 
   - dsp code・https://www.audiotool.com/user/khoi98
   - 3d knobs modelling・https://www.audiotool.com/user/kepz
@@ -16,7 +16,7 @@ This device is based on a plate algorithm by Jon Dattorro (1997)
 ![/images/reverb-full.png](/images/reverb-full.png
 "/images/reverb-full.png")
 
-###### Input Section
+### Input Section
 
 ![/images/reverb-input.png](/images/reverb-input.png
 "/images/reverb-input.png")
@@ -30,7 +30,7 @@ This device is based on a plate algorithm by Jon Dattorro (1997)
 4.  filter slope - the slope controls the steepness of the filter's
     curve.
 
-###### Output Section
+### Output Section
 
 ![/images/reverb-output.png](/images/reverb-output.png
 "/images/reverb-output.png")
@@ -39,7 +39,7 @@ This device is based on a plate algorithm by Jon Dattorro (1997)
 2.  wet level - the amount of the wet signal to pass through
 3.  bypass - disables any modification of the input signal
 
-###### Plate Section
+### Plate Section
 
 ![/images/reverb-plate.png](/images/reverb-plate.png
 "/images/reverb-plate.png")
@@ -48,7 +48,7 @@ This device is based on a plate algorithm by Jon Dattorro (1997)
 2.  damping - the amount of damping that is applied on each feedback
     iteration
 
-###### Diffuse Section
+### Diffuse Section
 
 ![/images/reverb-diffuse.png](/images/reverb-diffuse.png
 "/images/reverb-diffuse.png")
@@ -60,7 +60,7 @@ This device is based on a plate algorithm by Jon Dattorro (1997)
     near the center; least diffused on either extremes; resonates when
     near 100%)
 
-###### Vibrato Section
+### Vibrato Section
 
 ![/images/reverb-vibrato.png](/images/reverb-vibrato.png
 "/images/reverb-vibrato.png")
