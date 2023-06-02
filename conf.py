@@ -56,9 +56,27 @@ source_suffix = {
 html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
-  "external_links": [
-      ("Contribute", "https://github.com/audiotool/docs")
-  ]
+    'logo_only': False,
+    'display_version': False,
+
+    # where "prev"/"next" buttons are shown; bottom, top or both
+    'prev_next_buttons_location': 'bottom',
+
+    # add arrow symbol to links pointing outside docs
+    'style_external_links': True,
+
+    # weather to keep "+" symbols on left bar
+    'collapse_navigation': False,
+
+}
+
+# Configure "edit on github" at top right
+html_context = {
+    "display_github": True,
+    "github_user": "Audiotool",
+    "github_repo": "docs",
+    "github_version": "master",
+    "conf_py_path": "/",
 }
 
 
@@ -66,3 +84,12 @@ html_theme_options = {
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# Custom css files to include
+html_css_files = [
+    
+]
+
+html_show_sphinx = False
+
+logo_url = "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d05ec3744972a3774cc038fe42484954/audiotool.png"
