@@ -1,5 +1,3 @@
-(heisenberg)=
-
 Heisenberg
 ==========
 
