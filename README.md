@@ -34,6 +34,11 @@ See instructions below to see your changes locally before commiting.
 make html
 ```
 
+Note  that this will only rebuild pages for which the source changed.
+This means e.g. the sidebar won't update for all documents if you add a new document.
+
+To rebuild all pages, first fo `make clean` before doing `make html`.
+
 #### View
 
 ```
