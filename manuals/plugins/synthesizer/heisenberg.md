@@ -22,7 +22,7 @@ each voice.
 ![/images/hei1.png](/images/hei1.png
 "/images/hei1.png")
 
-###### Operators and Mod Matrix
+### Operators and Mod Matrix
 
 The operators or oscillators are where the raw sound of the synth is
 set. There are 4 operators A, B, C and D, each of these operators can be
@@ -74,7 +74,7 @@ mouse and dragging up or down to add a value to the grid.
     note's velocity to be used to modulate the amplitude of the
     operators and/or modulate the filter's cut-off frequency.
 
-###### Envelopes
+### Envelopes
 
 The Heisenberg includes 4 envelopes, Main, ENV2, ENV3 and a pitch
 envelope. The mixed signal of the operators will always be going through
@@ -112,7 +112,7 @@ same way.
     once the attack phase has passed the decay phase will be looped
     until the note is released.
 
-###### Pitch Envelope
+### Pitch Envelope
 
 The pitch envelope works in a similar way to the other ADSR envelopes
 which are included in Heisenberg, the difference being that the pitch
@@ -148,7 +148,7 @@ shape of the envelope can be manually dragged around the display.
     loop off the envelope will act as normal and will include all phases
     of the ADSR adventure.
 
-###### LFOs
+### LFOs
 
 The 2 LFOs include the same wave table as the oscillators with 49
 different waveforms to choose from. The rate of each LFO can set to a
@@ -181,7 +181,7 @@ work in exactly the same way.
 7.  **restart on/off** - Control over whether the LFO will restart its
     cycle with each new note that is played.
 
-###### Filter
+### Filter
 
 The voice controlled filter is applied to each voice being outputted by
 Heisenberg. Heisenberg's filter makes it possible to smoothly glide
@@ -209,7 +209,7 @@ for each octave.
 4.  **filter order** - The filter order controls the steepness of the
     filter's curve.
 
-###### Master
+### Master
 
 The master controls are where you can adjust the Heisenberg's global
 controls for glide, tuning, velocity and volume. The unisono

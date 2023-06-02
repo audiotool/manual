@@ -3,7 +3,7 @@
 Gravity is a single-band compressor with visual feedback according to
 its settings.
 
-###### Parameter
+### Parameter
 
   - Threshold - The level in decibel on which the device starts
     compressing
@@ -17,14 +17,14 @@ its settings.
     (direct) to longer rms window sizes
   - Bypass - Bypasses the compression for comparison
 
-###### Display
+### Display
 
   - Orange meter - Displays the current gain reduction of the compressor
   - Blue curve - The actual compression curve
   - Blue meters - Shows the rms and peak value of the input and output
     signal
 
-###### Links
+### Links
 
   - <https://en.wikipedia.org/wiki/Dynamic_range_compression>
   - <https://en.wikipedia.org/wiki/Root_mean_square>

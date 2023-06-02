@@ -13,7 +13,7 @@ effect pedals to create full-on early 90s acid techno\!
 ![/images/bassline.png](/images/bassline.png
 "/images/bassline.png")
 
-###### Notes and Sequencing
+### Notes and Sequencing
 
 As mentioned the Bassline machine has a built-in sequencer, this is
 where notes can be added and defined. Notes are added to the sequence by
@@ -54,7 +54,7 @@ required note by using the sequencing buttons.
 12. **next step** - Go to next step in the sequence.
 13. **previous step** - Go to previous step in the sequence.
 
-###### Patterns
+### Patterns
 
 The middle area of the device is where you can toggle through the
 devices different internal patterns. This area also includes the
@@ -70,7 +70,7 @@ Bassline's master volume control.
     patterns.
 3.  **Volume** - Master volume control.
 
-###### Filter and Parameter Controls
+### Filter and Parameter Controls
 
 Across the top of the Bassline machine is where the device's filter
 controls can be found, as well as controls for some of the devices

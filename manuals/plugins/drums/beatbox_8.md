@@ -24,7 +24,7 @@ layered onto the device to create far-out, analogue-esque basslines.
 ![/images/beat\_eight.png](/images/beat_eight.png
 "/images/beat_eight.png")
 
-###### Instrument Controls
+### Instrument Controls
 
 The Beatbox 8 is sequenced by selecting the instrument you want to use
 and then clicking on the sequencing button or buttons that correspond to
@@ -70,7 +70,7 @@ modified individually.
     using the controls for ultra fine tuning.
 13. **volume** - Master volume control.
 
-###### Sequencer Controls
+### Sequencer Controls
 
 Across the bottom of the Beatbox 9 is where the device's internal
 sequencer is found. Once an instrument has been selected you can start

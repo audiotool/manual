@@ -17,7 +17,7 @@ processing chain you use it.
 ![/images/rasselbock1.png](/images/rasselbock1.png
 "/images/rasselbock1.png")
 
-###### Pattern Options
+### Pattern Options
 
 Like the drum machines and other devices which include internal
 sequencers The Rasselbock has 4 pattern banks A, B, C and D with each
@@ -46,7 +46,7 @@ pattern containing 8 possible patterns and an edit range of 64 steps.
     different pattern banks (A, B, C and D)
 7.  **clear** - Deletes the currently selected pattern.
 
-###### Outputs
+### Outputs
 
 The 5 individual outputs across the top of the Rasselbock are triggered
 or opened only when a block has been drawn onto that output's channel in

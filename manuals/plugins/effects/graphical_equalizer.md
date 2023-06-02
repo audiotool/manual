@@ -31,7 +31,7 @@ Graphical Equalizer dos not include a bypass button but if the dry/wet
 control is turned to 0% the device will be bypassed and the signal will
 go from the input to the output unchanged.
 
-###### Controlling the filters
+### Controlling the filters
 
 As already mentioned the exact same settings can be made by using either
 the separate parameter controls for each filter or by using each

@@ -13,7 +13,7 @@ sound than the Beatbox 8.
 ![/images/beatbox91.png](/images/beatbox91.png
 "/images/beatbox91.png")
 
-###### Instrument Controls
+### Instrument Controls
 
 The Beatbox 9 is sequenced by selecting the instrument you want to use
 and then clicking on the sequencing button or buttons that correspond to
@@ -45,7 +45,7 @@ modified individually.
 9.  **level** - The level control allows for adjustment of the volume of
     each instrument individually.
 
-###### Sequencer Controls
+### Sequencer Controls
 
 Across the bottom of the Beatbox 9 is where the device's internal
 sequencer is found. Once an instrument has been selected you can start

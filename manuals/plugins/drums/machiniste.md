@@ -16,7 +16,7 @@ applied to each step in the sequence.
 ![/images/machiniste1.png](/images/machiniste1.png
 "/images/machiniste1.png")
 
-###### Sequencer Controls
+### Sequencer Controls
 
 The sequencer controls across the top of the device allow for you to
 change the specifications of your sequence, how long it is, which
@@ -51,7 +51,7 @@ device's master volume control.
 9.  **Volume** Master volume control
 10. **Output** Master output
 
-###### Sequencer
+### Sequencer
 
 The sequencer is where you can plot where you want each hit to occur.
 The sequencer includes the channel list on the left of the device, this
@@ -97,7 +97,7 @@ steps modulation value.
     draw steps onto the sequencing grid to plot where you want the hits
     to occur.
 
-###### Parameter Controls
+### Parameter Controls
 
 The parameter controls are where each sample's signal can be shaped and
 edited individually. Although the Machiniste only includes one set of

@@ -12,7 +12,7 @@ machine that will still work even if you stand on it.
 ![/images/centroid1.png](/images/centroid1.png
 "/images/centroid1.png")
 
-###### Channel Controls
+### Channel Controls
 
 This is where each inputed channel can be adjusted individually. All of
 the 16 channels include exactly the same parameters, for this reason the
@@ -53,7 +53,7 @@ although all channel parameters work the same way for each channel.*
     channel. One device or a whole chain of devices can be plugged into
     each channel's input.
 
-###### Master Controls
+### Master Controls
 
 The master controls are similar to the master controls of any other
 device, they control the device master output and allow for adjustments
@@ -80,7 +80,7 @@ controls for aux 1 and 2 are exactly the same.*
 6.  **level** - Centroids master volume control, this will affect the
     volume of every channel.
 
-###### Aux
+### Aux
 
 The Centroid includes 2 auxiliary modules. These each allow for an
 effect or a chain of effects to be inputed into the device, an effect
