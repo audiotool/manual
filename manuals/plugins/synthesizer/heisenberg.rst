@@ -248,6 +248,7 @@ activated it will affect all of the waveforms being produced by the
 
 .. |/images/hei1.png| image:: /images/hei1.png
 .. |/images/hei_operator2.png| image:: /images/hei_operator2.png
+   :alt: Heisenberg's Operator & Mod Matrix with labels that explain different features
 .. |/images/hei_env3.png| image:: /images/hei_env3.png
 .. |/images/hei_pitch_env2.png| image:: /images/hei_pitch_env2.png
 .. |/images/hei_lfo1.png| image:: /images/hei_lfo1.png
