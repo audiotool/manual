@@ -53,7 +53,7 @@ source_suffix = {
 # a list of builtin themes.
 
 
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
     'logo_only': False,
