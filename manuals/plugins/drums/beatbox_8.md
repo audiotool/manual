@@ -1,7 +1,9 @@
-# Tr808
+.. beatbox_8:
 
-The Tr808 is a tried and tested drum machine and is a great tool for
-working out drum loops. The Tr808 drum machine allows for drum
+# Beatbox 8
+
+The Beatbox 8 is a tried and tested drum machine and is a great tool for
+working out drum loops. The Beatbox 8 drum machine allows for drum
 patterns to be programmed internally by using the device’s internal
 sequencer but the device can also be sequenced by using a note track via
 the timeline. This classic drum machine includes 16 different
@@ -11,10 +13,10 @@ include a boomy low kick, snare, low/mid/hi toms, low/mid/hi congas,
 rimshot, claves, hand clap, maracas, cowbell, cymbal, open hihats and
 closed hihats. All of the sounds can be edited and/or tuned and have
 their own individual outputs as well as the device’s master output. The
-Tr808 works by selecting the instrument you want to use and then
+Beatbox 8 works by selecting the instrument you want to use and then
 adding a hit on which step or steps in the sequence you want by
 selecting the button specific to that step in the sequence. Although
-primarily a drum machine the Tr808 is a very powerful device and can
+primarily a drum machine the Beatbox 8 is a very powerful device and can
 be utilized for purposes other than drums, for example effects can be
 layered onto the device to create far-out, analogue-esque basslines.
 (works especially well with lots of distortion)
@@ -24,7 +26,7 @@ layered onto the device to create far-out, analogue-esque basslines.
 
 ###### Instrument Controls
 
-The Tr808 is sequenced by selecting the instrument you want to use
+The Beatbox 8 is sequenced by selecting the instrument you want to use
 and then clicking on the sequencing button or buttons that correspond to
 where you want to the hit to occour in the sequence. Only one instrument
 can be added to the sequence at a time. Each instrument has its own set
@@ -70,7 +72,7 @@ modified individually.
 
 ###### Sequencer Controls
 
-Across the bottom of the Tr909 is where the device's internal
+Across the bottom of the Beatbox 9 is where the device's internal
 sequencer is found. Once an instrument has been selected you can start
 building up your drum sequence by adding instrument hits to the
 sequencer by selecting the sequence buttons.
@@ -89,7 +91,7 @@ sequencer by selecting the sequence buttons.
     moving or shuffling all of the note in-between the keynotes either
     forward or backwards.
 5.  **edit range** - The sequencer contains 16 step buttons but the
-    Tr808 allows for sequences up to 64 steps long. This control
+    Beatbox 8 allows for sequences up to 64 steps long. This control
     allows for you to use the same 16 buttons to edit a 64 step sequence
     by reusing the same step buttons to edit different parts of the
     sequence.
