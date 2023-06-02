@@ -87,7 +87,7 @@ html_static_path = ['_static']
 
 # Custom css files to include
 html_css_files = [
-    
+    "custom.css"
 ]
 
 html_show_sphinx = False
