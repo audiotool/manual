@@ -1,8 +1,3 @@
-.. Audiotool documentation master file, created by
-   sphinx-quickstart on Thu Jun  1 14:37:04 2023.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 .. title:: Audiotool Documentation - Table of Contents
 .. meta::
    :description: Audiotool Documentation - Table of Contents
@@ -23,10 +18,6 @@ Basics
 
    manuals/basics/what_is_audiotool
    manuals/basics/getting_started
-   manuals/basics/publish_track
-
-
-
 
 Editor
 ~~~~~~
@@ -37,8 +28,6 @@ Editor
    :reversed:
 
    manuals/editor/*
-
-
 
 Drums
 ~~~~~
