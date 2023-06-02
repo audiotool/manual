@@ -14,9 +14,7 @@ If you feel like a page could be improved / rewritten, please [create a pull req
 
 In general, all manual pages are located in the [manuals](/manuals/) directory. They're written using the reStructured syntax, see [here](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) for a quick overview.
 
-The root of the documentation is [index.rst](/index.rst).
-
-You can modify files there, or add new files. If you add a new directory, reference them from [index.rst](/index.rst) so they become visible at the top level. If you want to add images, put them inside the `_static` directory.
+If you create new files, you have to reference them from somewhere; either from the index page (in `index.rst`), or from some page already reference by `index.rst`. 
 
 See instructions below to see your changes locally before commiting. 
 
