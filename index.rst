@@ -1,88 +1,84 @@
-.. title:: Audiotool Documentation - Table of Contents
+.. title:: Index 
 .. meta::
    :description: Audiotool Documentation - Table of Contents
 
 Audiotool
----------
+=========
 
 Welcome to the documentation of `audiotool.com`_!
 
 .. _audiotool.com: https://www.audiotool.com
 
 
-Basics
-~~~~~~
 .. toctree::
+   :caption: Getting started
    :maxdepth: 1
    :glob:
 
-   manuals/basics/what_is_audiotool
-   manuals/basics/getting_started
-
-Editor
-~~~~~~
+   manuals/getting_started/what_is_audiotool
+   manuals/getting_started/your_first_project
 
 .. toctree::
+   :caption: Editor
    :maxdepth: 1
    :glob:
    :reversed:
 
    manuals/editor/*
 
-Drums
-~~~~~
+Plugins
+-------
 
 .. toctree::
+   :caption: Drums
    :maxdepth: 1
    :glob:
 
    manuals/plugins/drums/*
 
-Synthesizer
-~~~~~~~~~~~
 .. toctree::
+   :caption: Synthesizer
    :maxdepth: 1
    :glob:
 
    manuals/plugins/synthesizer/*
 
-Tools
-~~~~~
 .. toctree::
+   :caption: Tools
    :maxdepth: 1
    :glob:
 
    manuals/plugins/tools/*
 
-Mastering
-~~~~~~~~~
 .. toctree::
+   :caption: Mastering
    :maxdepth: 1
    :glob:
 
    manuals/plugins/mastering/*
 
-Effects
-~~~~~~~
 .. toctree::
+   :caption: Effects
    :maxdepth: 1
    :glob:
 
    manuals/plugins/effects/*
 
-Notes
-~~~~~
+
 .. toctree::
+   :caption: Notes
+   :name: notes
    :maxdepth: 1
    :glob:
 
    manuals/plugins/notes/*
 
-Other
-~~~~~
 
 .. toctree::
+   :caption: Other
+   :hidden:
    :maxdepth: 1
    :glob:
 
    manuals/other/*
+   Help Contribute! <https://github.com/audiotool/docs#contributing>
