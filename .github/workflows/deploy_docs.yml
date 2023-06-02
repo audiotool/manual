@@ -29,7 +29,7 @@ jobs:
       - name: Setup packages
         run: |
           sudo apt install python3-sphinx make
-          python -m pip install sphinx-press-theme myst-parser
+          python -m pip install sphinx-rtd-theme
       
       - name: Build
         run: make html
