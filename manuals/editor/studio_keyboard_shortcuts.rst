@@ -9,7 +9,7 @@ Studio Keyboard Shortcuts
 Application Shortcuts
 ^^^^^^^^^^^^^^^^^^^^^
 
--  :kbd:`Shift` + :kbd:` :kbd`:`N`: New project
+-  :kbd:`Shift` + :kbd:`N`: New project
 -  :kbd:`Shift` + :kbd:`O`: Open project
 -  :kbd:`Shift` + :kbd:`S`: Save project
 -  :kbd:`Shift` + :kbd:`W`: Close project
