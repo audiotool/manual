@@ -34,7 +34,7 @@ make html
 ```
 
 Note  that this will only rebuild pages for which the source changed.
-This means e.g. the sidebar won't update for all documents if you add a new document.
+This means e.g. the sidebar won't update for old documents if you ad a new document.
 
 To rebuild all pages, first fo `make clean` before doing `make html`.
 
