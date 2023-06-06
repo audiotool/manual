@@ -7,8 +7,9 @@ background-color: #1d1f27;
 }
 
 /* Sidebar */
-div.wy-side-scroll {
-  background-color: #1d1f27;
+
+.wy-nav-side {
+  background-color: #1d1f27 !important;
 }
 
 .wy-nav-top {
@@ -95,6 +96,12 @@ li.current>a{
   background-color: #272934 !important;
   border: 0 !important;
 color: #ccc !important;
+}
+
+.toctree-l3>a.reference.internal  {
+  background-color: #272934 !important;
+  border: 0 !important;
+  color: #ccc !important;
 }
 
 .toctree-l2 a {
