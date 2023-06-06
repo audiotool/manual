@@ -11,6 +11,14 @@ div.wy-side-scroll {
   background-color: #1d1f27;
 }
 
+.wy-nav-top {
+  background-color: #1d1f27;
+}
+
+.wy-nav-top>a {
+  color: white;
+}
+
 /* Main content */
 div.wy-nav-content {
   background-color: #272934;
@@ -26,6 +34,15 @@ div.wy-side-nav-search {
   background-color: rgba(1, 1, 1, 0);padding: 0;
   padding-top: 10px;
 }
+
+div.wy-side-nav-search>a {
+  color:  white;
+}
+
+div.wy-side-nav-search>a::before{
+  display: none;
+}
+
 
 .wy-side-nav-search input[type=text] {
   border-radius: 0 !important;
