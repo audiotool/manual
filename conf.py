@@ -56,6 +56,7 @@ source_suffix = {
 html_theme = 'sphinx_rtd_theme'
 
 html_theme_options = {
+    'analytics_id': 'G-V8ERP3BN49',
     'logo_only': False,
     'display_version': False,
 
