@@ -17,6 +17,7 @@ Welcome to the documentation of `audiotool.com`_!
 
    manuals/getting_started/what_is_audiotool
    manuals/getting_started/your_first_project
+   manuals/getting_started/video_tutorials
 
 .. toctree::
    :caption: Editor
