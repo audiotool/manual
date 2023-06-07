@@ -9,7 +9,7 @@ You'll learn how to:
  * add a melody to your project
  * browse and add samples to the project
  * arrange the instruments and samples to a project
- * export and publish the project to your profile, allowin others to remix it
+ * export and publish the project to your profile, allowing others to remix it
 
 Getting started
 ^^^^^^^^^^^^^^^
@@ -46,18 +46,19 @@ Studio Overview
 Add a sample
 ^^^^^^^^^^^^
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis
-lectus sed mi malesuada efficitur ut faucibus turpis. Nulla urna orci,
-vulputate sit amet eleifend sed, vestibulum eget mauris. Mauris
-tincidunt, purus eget fringilla blandit, elit lorem tempor purus, nec
-finibus odio lacus in arcu. Sed sodales arcu ut ante fringilla
-tristique. Maecenas dictum velit nec quam efficitur pretium. Donec ex
-metus, consectetur vel elementum eu, congue ac felis. Maecenas ac purus
-rutrum lectus iaculis hendrerit quis ac augue. Pellentesque vehicula leo
-eget elit vulputate tempor. Aenean nec elit quis felis tristique
-volutpat. Pellentesque ut faucibus sem. Pellentesque habitant morbi
-tristique senectus et netus et malesuada fames ac turpis egestas. Nunc
-sollicitudin mauris posuere augue aliquet, sed efficitur erat cursus.
+Audiotool has an extensive sample library database that contains both safe samples, and user uploaded samples. 
+Samples are small audio files that you can add to your track. To find the sample library, click on the "sample" button in the panel on the right. 
+
+|/images/sample-in-panel.png|
+
+Here, you can search for a desired sample. To preview samples, click on sample's text. You can click it again to stop playing.
+
+|/images/sample-search.gif|
+
+Once you find the desired sample, drag it out onto the desktop to add it to your project. An audiotrack device will appear on the desktop
+and a new audiotrack will be created on the timeline. 
+
+|/images/drag-sample-to-desktop.gif|
 
 An an instrument
 ----------------
@@ -100,3 +101,12 @@ sollicitudin mauris posuere augue aliquet, sed efficitur erat cursus.
 
 .. |/images/save_project_dialogue.png| image:: /images/save_project_dialogue.png
     :alt: Dialogue highlighting how to save a project
+
+.. |/images/sample-in-panel.png| image:: /images/sample-in-panel.png
+    :alt: Arrow highlighting where the sample tab is in the panel
+
+.. |/images/sample-search.gif| image:: /images/sample-search.gif
+    :alt: Gif of searching "jazz" in the sample search bar.
+
+.. |/images/drag-sample-to-desktop.gif| image:: /images/drag-sample-to-desktop.gif
+    :alt: Gif of dragging a sample to the desktop.
