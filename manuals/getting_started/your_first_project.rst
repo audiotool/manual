@@ -4,18 +4,18 @@ Your first project
 The following is a tutorial on how to create a small audio track
 on audiotool.com and publish it on your profile from start-to-finish.
 
-You'll learn how to:
-* add synthesizers and other instruments to your project
-* add a melody to your project
-* browse and add samples to the project
-* arrange the instruments and samples to a project
-* export and publish the project to your profile, allowin others to remix it
+You'll learn how to:  
+ * add synthesizers and other instruments to your project
+ * add a melody to your project
+ * browse and add samples to the project
+ * arrange the instruments and samples to a project
+ * export and publish the project to your profile, allowin others to remix it
 
-Create a new project
-^^^^^^^^^^^^^^^^^^^^
+Getting started
+^^^^^^^^^^^^^^^
 
-Foobar
-------
+Creating a new project
+----------------------
 
 Audiotool.com itself is the place to share your tracks, listen to other's tracks,
 and interact with other audiotool.com users.
@@ -40,8 +40,11 @@ Press `File` -> `Save`
 |/images/save_project_dialogue.png|
 
 
+Studio Overview
+---------------
+
 Add a sample
-------------
+^^^^^^^^^^^^
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis
 lectus sed mi malesuada efficitur ut faucibus turpis. Nulla urna orci,
