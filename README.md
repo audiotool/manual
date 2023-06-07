@@ -45,3 +45,21 @@ To rebuild all pages, first fo `make clean` before doing `make html`.
 ```
 cd _build/html && python3 -m http.server
 ```
+
+
+### Troubleshoot
+
+If for whatever reason the above setup doesn't work, you can also install the sphinx 
+package directly in python:
+
+```
+python3 -m pip install sphinx
+```
+
+And then call the `make html` command manually from the project cirectory:
+
+```
+python3 -m sphinx html _build/html .
+```
+
+Make sure you have install the theme as described above.
