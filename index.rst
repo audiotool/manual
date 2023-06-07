@@ -67,7 +67,7 @@ Plugins
 
 
 .. toctree::
-   :caption: Notes
+   :caption: Note Processors
    :name: notes
    :maxdepth: 1
    :glob:
