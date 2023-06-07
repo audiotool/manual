@@ -78,13 +78,24 @@
   src: url("./fonts/ibm-plex-sans-v14-latin-700italic.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-700italic.woff") format("woff");
 }
 
+/* Vars */
+:root {
+  --textColour: #ffffff;
+  --blue: #05aff2;
+  --background: #1d1f27;
+  --grey3: #272934;
+  --grey4: #2c2e3b;
+  --grey8: rgba(255, 255, 255, 0.6);
+  --grey9: rgba(255, 255, 255, 0.8);
+}
+
 /* Body */
 
 body,
 .wy-body-for-nav {
   font-size: 16px;
-  background: #1d1f27;
-  color: #ffffff;
+  background: var(--background);
+  color: var(--textColour);
 }
 
 /* Font Overrides */
@@ -119,33 +130,33 @@ h6,
 legend,
 .rst-versions,
 .rst-content .sidebar .sidebar-title {
-  font-family: "IBM Plex Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
 }
 
 /* Sidebar */
 
 .wy-nav-side {
-  background-color: #1d1f27 !important;
+  background-color: var(--background) !important;
 }
 
 .wy-nav-top {
-  background-color: #1d1f27;
+  background-color: var(--background);
 }
 
 .wy-nav-top>a {
-  color: white;
+  color: var(--textColour);
 }
 
 /* Main content */
 div.wy-nav-content {
-  background-color: #272934;
+  background-color: var(--grey3);
   height: fit-content;
   min-height: 100vh;
   ;
 }
 
 div.wy-nav-content a {
-  color: #999;
+  color: var(--blue);
 }
 
 div.wy-side-nav-search {
@@ -155,7 +166,7 @@ div.wy-side-nav-search {
 }
 
 div.wy-side-nav-search>a {
-  color: white;
+  color: var(--textColour);
 }
 
 div.wy-side-nav-search>a::before {
@@ -167,14 +178,14 @@ div.wy-side-nav-search>a::before {
   border-radius: 0 !important;
   font-size: 15pt;
   margin: 0;
-  background-color: #1d1f27;
-  border: 5px solid #272934 !important;
+  background-color: var(--background);
+  border: 5px solid var(--grey3) !important;
   box-shadow: none;
-  color: white;
+  color: var(--textColour);
 }
 
 div form input::placeholder {
-  color: white;
+  color: var(--textColour);
 }
 
 * {
@@ -182,43 +193,43 @@ div form input::placeholder {
 }
 
 div.wy-side-scroll span.caption-text {
-  color: #FA9F42;
+  color: var(--textColour);
 }
 
 a.reference.internal {
-  color: #ccc;
+  color: var(--grey8);
   border-right: 0;
 }
 
 a.reference.internal:hover {
-  background-color: #353847 !important;
+  background-color: var(--grey4) !important;
 }
 
 a.reference.internal.current {
-  background-color: #353847 !important;
+  background-color: var(--grey4) !important;
   border: 0;
-  color: white;
+  color: var(--textColour);
 }
 
 li.current>a {
-  background-color: #272934 !important;
-  color: #ccc !important;
+  background-color: var(--grey3) !important;
+  color: var(--grey8) !important;
 }
 
 .toctree-l2 {
-  background-color: #272934 !important;
+  background-color: var(--grey3) !important;
   border: 0 !important;
-  color: #ccc !important;
+  color: var(--grey8) !important;
 }
 
 .toctree-l3>a.reference.internal {
-  background-color: #272934 !important;
+  background-color: var(--grey3) !important;
   border: 0 !important;
-  color: #ccc !important;
+  color: var(--grey8) !important;
 }
 
 .toctree-l2 a {
-  color: #ccc !important;
+  color: var(--grey8) !important;
 }
 
 * {
@@ -231,7 +242,7 @@ hr {
 
 a.btn.btn-neutral {
   background: rgba(255, 255, 255, 0.2) !important;
-  color: #fff !important;
+  color: var(--textColour) !important;
   border: 0 !important;
   border-radius: 5px !important;
   box-shadow: none !important;
@@ -246,31 +257,31 @@ span.fa.fa-arrow-circle-left {
 }
 
 li.breadcrumb-item.active {
-  color: white;
+  color: var(--textColour);
 }
 
 a.fa.fa-github {
-  color: white;
+  color: var(--textColour);
 }
 
 p {
-  color: #ccc;
+  color: var(--grey8);
 }
 
 
 ul li a {
-  color: white;
+  color: var(--textColour);
 }
 
 .admonition.note {
-  background-color: #353847;
+  background-color: var(--grey4);
 }
 
 p.admonition-title {
-  background-color: #05aff2;
+  background-color: var(--blue);
 }
 
 kbd {
-  background-color: #ddd !important;
+  background-color: var(--grey9) !important;
   color: black !important;
 }
