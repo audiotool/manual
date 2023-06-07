@@ -2,7 +2,7 @@ Audio Live Recording
 ====================
 
 If you want to play an instrument or sing onto your audiotool track,
-this feature is for you. Audio Live Recording relaxes\* the 30 sec
+this feature is for you. Audio Live Recording relaxes [#timelimit]_ the 30 sec
 upload limit and calibrates your audio system to record your instrument
 or voice in perfect sync with your track.
 
@@ -81,10 +81,12 @@ Step 6
 Your audio recording is automatically placed in the timeline after
 upload. You are done!
 
-[*] Maximum recording time is 10 minutes.
-
 .. |/images/ar-01.jpg| image:: /images/ar-01.jpg
 .. |/images/ar-02.jpg| image:: /images/ar-02.jpg
 .. |/images/ar-03.jpg| image:: /images/ar-03.jpg
 .. |/images/ar-05.jpg| image:: /images/ar-05.jpg
 .. |/images/ar-06.jpg| image:: /images/ar-06.jpg
+
+.. rubric:: Footnotes
+    
+.. [#timelimit] Maximum recording time is 10 minutes.
