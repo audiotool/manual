@@ -2,10 +2,6 @@
 Keyboard Shortcuts
 =========================
 
-.. note::
-   
-   You can watch the content of this document on `Youtube <https://www.youtube.com/watch?v=AkaVskB7ths>`_
-
 Application
 ^^^^^^^^^^^^^^^^^^^^^
 

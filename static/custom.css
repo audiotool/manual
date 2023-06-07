@@ -360,3 +360,12 @@ kbd {
   background-color: var(--grey9) !important;
   color: black !important;
 }
+
+
+.rst-content .sidebar {
+  background-color: var(--grey3);
+}
+
+.rst-content .sidebar .sidebar-title {
+  background-color: var(--grey2);
+}
