@@ -76,8 +76,7 @@ Plugins
 
 
 .. toctree::
-   :caption: Other
-   :hidden:
+   :caption: More
    :maxdepth: 1
    :glob:
 
