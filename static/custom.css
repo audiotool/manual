@@ -1,0 +1,371 @@
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("./fonts/ibm-plex-sans-v14-latin-300.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-300.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("./fonts/ibm-plex-sans-v14-latin-300italic.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-300italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./fonts/ibm-plex-sans-v14-latin-regular.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./fonts/ibm-plex-sans-v14-latin-italic.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("./fonts/ibm-plex-sans-v14-latin-500.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-500.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("./fonts/ibm-plex-sans-v14-latin-500italic.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-500italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("./fonts/ibm-plex-sans-v14-latin-600.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-600.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("./fonts/ibm-plex-sans-v14-latin-600italic.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-600italic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./fonts/ibm-plex-sans-v14-latin-700.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-700.woff") format("woff");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("./fonts/ibm-plex-sans-v14-latin-700italic.woff2") format("woff2"), url("./fonts/ibm-plex-sans-v14-latin-700italic.woff") format("woff");
+}
+
+/* Vars */
+:root {
+  --textColour: #ffffff;
+  --blue: #05aff2;
+  --grey2: #1d1f27;
+  --grey3: #272934;
+  --grey4: #2c2e3b;
+  --grey5: #313341;
+  --grey6: rgba(255, 255, 255, 0.4);
+  --grey7: rgba(255, 255, 255, 0.5);
+  --grey8: rgba(255, 255, 255, 0.6);
+  --grey9: rgba(255, 255, 255, 0.8);
+  --brighter: #313341aa;
+}
+
+/* Body */
+
+body,
+.wy-body-for-nav {
+  font-size: 16px;
+  background: var(--grey2);
+  color: var(--textColour);
+}
+
+/* Font Overrides */
+
+.btn,
+input[type=button],
+input[type=reset],
+input[type=submit],
+input[type=color],
+input[type=date],
+input[type=datetime-local],
+input[type=datetime],
+input[type=email],
+input[type=month],
+input[type=number],
+input[type=password],
+input[type=search],
+input[type=tel],
+input[type=text],
+input[type=time],
+input[type=url],
+input[type=week],
+textarea,
+body,
+.rst-content .toctree-wrapper>p.caption,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+legend,
+.rst-versions,
+.rst-content .sidebar .sidebar-title {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+/* Colour overrides */
+.rst-content .note .admonition-title,
+.rst-content .note .wy-alert-title,
+.rst-content .seealso .admonition-title,
+.rst-content .seealso .wy-alert-title,
+.rst-content .wy-alert-info.admonition-todo .admonition-title,
+.rst-content .wy-alert-info.admonition-todo .wy-alert-title,
+.rst-content .wy-alert-info.admonition .admonition-title,
+.rst-content .wy-alert-info.admonition .wy-alert-title,
+.rst-content .wy-alert-info.attention .admonition-title,
+.rst-content .wy-alert-info.attention .wy-alert-title,
+.rst-content .wy-alert-info.caution .admonition-title,
+.rst-content .wy-alert-info.caution .wy-alert-title,
+.rst-content .wy-alert-info.danger .admonition-title,
+.rst-content .wy-alert-info.danger .wy-alert-title,
+.rst-content .wy-alert-info.error .admonition-title,
+.rst-content .wy-alert-info.error .wy-alert-title,
+.rst-content .wy-alert-info.hint .admonition-title,
+.rst-content .wy-alert-info.hint .wy-alert-title,
+.rst-content .wy-alert-info.important .admonition-title,
+.rst-content .wy-alert-info.important .wy-alert-title,
+.rst-content .wy-alert-info.tip .admonition-title,
+.rst-content .wy-alert-info.tip .wy-alert-title,
+.rst-content .wy-alert-info.warning .admonition-title,
+.rst-content .wy-alert-info.warning .wy-alert-title,
+.rst-content .wy-alert.wy-alert-info .admonition-title,
+.wy-alert.wy-alert-info .rst-content .admonition-title,
+.wy-alert.wy-alert-info .wy-alert-title {
+  background: var(--blue);
+}
+
+.wy-menu-vertical li.toctree-l2 a:hover button.toctree-expand,
+.wy-menu-vertical li.toctree-l3 a:hover button.toctree-expand,
+.wy-menu-vertical li.toctree-l4 a:hover button.toctree-expand,
+.wy-menu-vertical li.toctree-l5 a:hover button.toctree-expand,
+.wy-menu-vertical li.toctree-l6 a:hover button.toctree-expand,
+.wy-menu-vertical li.toctree-l7 a:hover button.toctree-expand,
+.wy-menu-vertical li.toctree-l8 a:hover button.toctree-expand,
+.wy-menu-vertical li.toctree-l9 a:hover button.toctree-expand,
+.wy-menu-vertical li.toctree-l10 a:hover button.toctree-expand {
+  color: var(--grey7);
+}
+
+.wy-menu-vertical li.toctree-l2 a,
+.wy-menu-vertical li.toctree-l3 a,
+.wy-menu-vertical li.toctree-l4 a,
+.wy-menu-vertical li.toctree-l5 a,
+.wy-menu-vertical li.toctree-l6 a,
+.wy-menu-vertical li.toctree-l7 a,
+.wy-menu-vertical li.toctree-l8 a,
+.wy-menu-vertical li.toctree-l9 a,
+.wy-menu-vertical li.toctree-l10 a {
+  color: var(--grey9);
+}
+
+.wy-menu-vertical li.toctree-l1.current>a,
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3>a,
+.wy-menu-vertical li.toctree-l2.current>a,
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3>a {
+  background: transparent;
+}
+
+.wy-menu-vertical li.current {
+  background: var(--brighter);
+}
+
+/* Sidebar */
+
+.wy-nav-side {
+  background-color: var(--grey2) !important;
+}
+
+.wy-nav-top {
+  background-color: var(--grey2);
+}
+
+.wy-nav-top>a {
+  color: var(--textColour);
+}
+
+.wy-menu-vertical a:hover,
+.wy-menu-vertical li.current a:hover {
+  background-color: var(--grey5);
+  color: var(--textColour)
+}
+
+.wy-menu-vertical li.current>a,
+.wy-menu-vertical li.on a {
+  color: var(--textColour);
+}
+
+.wy-side-nav-search input[type=text] {
+  border-radius: 0 !important;
+  font-size: 100%;
+  margin: 0;
+  background-color: var(--grey2);
+  border: 0.25rem solid var(--grey3) !important;
+  border-radius: 0.5rem !important;
+  box-shadow: none;
+  color: var(--textColour);
+}
+
+a.reference.internal.current {
+  border: 0;
+  color: var(--textColour);
+  font-weight: normal;
+}
+
+.wy-menu-vertical li.current>a button.toctree-expand,
+.wy-menu-vertical li.on a button.toctree-expand {
+  color: var(--grey7);
+}
+
+/* Main content */
+div.wy-nav-content {
+  background-color: var(--grey3);
+  height: fit-content;
+  min-height: 100vh;
+  ;
+}
+
+div.wy-nav-content a {
+  color: var(--blue);
+}
+
+div.wy-side-nav-search {
+  background-color: rgba(1, 1, 1, 0);
+  padding: 0.25rem;
+  padding-top: 0.5rem;
+}
+
+div.wy-side-nav-search>a {
+  color: var(--textColour);
+}
+
+div.wy-side-nav-search>a::before {
+  display: none;
+}
+
+div form input::placeholder {
+  color: var(--textColour);
+}
+
+* {
+  border: 0 !important;
+}
+
+div.wy-side-scroll span.caption-text {
+  color: var(--textColour);
+}
+
+a.reference.internal {
+  color: var(--grey9);
+  border-right: 0;
+}
+
+a.reference.internal:hover {
+  color: var(--textColour);
+}
+
+.toctree-l3>a.reference.internal {
+  background-color: var(--grey3) !important;
+  border: 0 !important;
+  color: var(--grey8) !important;
+}
+
+* {
+  border: none;
+}
+
+hr {
+  border: none !important;
+}
+
+a.btn.btn-neutral {
+  background: rgba(255, 255, 255, 0.1) !important;
+  color: var(--textColour) !important;
+  border: 0 !important;
+  border-radius: 5px !important;
+  box-shadow: none !important;
+}
+
+a.btn.btn-neutral:hover {
+  background: rgba(255, 255, 255, 0.2) !important;
+}
+
+span.fa.fa-arrow-circle-right {
+  display: none;
+}
+
+span.fa.fa-arrow-circle-left {
+  display: none;
+}
+
+li.breadcrumb-item.active {
+  color: var(--textColour);
+}
+
+a.fa.fa-github {
+  color: var(--textColour);
+}
+
+p {
+  color: var(--grey9);
+}
+
+
+ul li a {
+  color: var(--textColour);
+}
+
+.admonition.note {
+  background-color: var(--grey4);
+}
+
+p.admonition-title {
+  background-color: var(--blue);
+}
+
+kbd {
+  background-color: var(--grey9) !important;
+  color: black !important;
+}
+
+
+.rst-content .sidebar {
+  background-color: var(--grey3);
+}
+
+.rst-content .sidebar .sidebar-title {
+  background-color: var(--grey2);
+}

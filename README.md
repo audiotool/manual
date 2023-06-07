@@ -27,7 +27,7 @@ See instructions below to see your changes locally. Once you're happy, create a 
 #### Setup dependencies
 
 * [install sphinx](https://www.sphinx-doc.org/en/master/usage/installation.html)
-* install theme: `python3 -m pip install sphinx-press-theme`
+* install theme: `python3 -m pip install sphinx_rtd_theme`
 
 #### Build
 
