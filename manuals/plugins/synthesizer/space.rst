@@ -754,54 +754,55 @@ of the played note. Adjacent waveforms in the wave-table can be
 interpolated digitally. Space offers two wave-tables than can be mixed
 in a number of ways to create a complex tone.
 
-.. |image0| image:: Pictures/10000000000002AD000001D48CCB814FFB0B80E4.png
+.. |image0| figure:: /images/space/10000000000002AD000001D48CCB814FFB0B80E4.png
    :width: 17cm
    :height: 11.613cm
-.. |image1| image:: Pictures/10000201000002AD000001D446B039FDDDA0D4BE.png
+
+.. |image1| image:: /images/space/10000201000002AD000001D446B039FDDDA0D4BE.png
    :width: 17cm
    :height: 11.61cm
-.. |image2| image:: Pictures/10000201000002AD000001D4579BD7C8DBC7C0E2.png
+.. |image2| image:: /images/space/10000201000002AD000001D4579BD7C8DBC7C0E2.png
    :width: 17cm
    :height: 11.613cm
-.. |image3| image:: Pictures/10000201000002AD000001D454C30E7D7D7F1156.png
+.. |image3| image:: /images/space/10000201000002AD000001D454C30E7D7D7F1156.png
    :width: 17cm
    :height: 11.613cm
-.. |image4| image:: Pictures/10000201000002AD000001D4CBCF760D17EA3956.png
+.. |image4| image:: /images/space/10000201000002AD000001D4CBCF760D17EA3956.png
    :width: 17cm
    :height: 11.613cm
-.. |image5| image:: Pictures/10000201000002AD000001D4DEDE24071AC6426F.png
+.. |image5| image:: /images/space/10000201000002AD000001D4DEDE24071AC6426F.png
    :width: 17cm
    :height: 11.613cm
-.. |image6| image:: Pictures/10000201000002AD000001D4822D7F5D54990B11.png
+.. |image6| image:: /images/space/10000201000002AD000001D4822D7F5D54990B11.png
    :width: 17cm
    :height: 11.613cm
-.. |image7| image:: Pictures/10000201000002AD000001D4ED7CCDA82CFBD8C8.png
+.. |image7| image:: /images/space/10000201000002AD000001D4ED7CCDA82CFBD8C8.png
    :width: 17cm
    :height: 11.613cm
-.. |image8| image:: Pictures/10000201000002AD000001D4502847CB8DF2D3F6.png
+.. |image8| image:: /images/space/10000201000002AD000001D4502847CB8DF2D3F6.png
    :width: 17cm
    :height: 11.613cm
-.. |image9| image:: Pictures/10000201000002AD000001D4EC8FC6464E514B85.png
+.. |image9| image:: /images/space/10000201000002AD000001D4EC8FC6464E514B85.png
    :width: 17cm
    :height: 11.613cm
-.. |image10| image:: Pictures/10000201000002AD000001D40040919630530868.png
+.. |image10| image:: /images/space/10000201000002AD000001D40040919630530868.png
    :width: 17cm
    :height: 11.613cm
-.. |image11| image:: Pictures/10000201000002AD000001D457AB937843B94177.png
+.. |image11| image:: /images/space/10000201000002AD000001D457AB937843B94177.png
    :width: 17cm
    :height: 11.613cm
-.. |image12| image:: Pictures/10000201000002AD000001D4DFA6DED4E3E20D51.png
+.. |image12| image:: /images/space/10000201000002AD000001D4DFA6DED4E3E20D51.png
    :width: 17cm
    :height: 11.613cm
-.. |image13| image:: Pictures/10000201000002AD000001D414102E31040957F1.png
+.. |image13| image:: /images/space/10000201000002AD000001D414102E31040957F1.png
    :width: 17cm
    :height: 11.613cm
-.. |image14| image:: Pictures/10000201000002AD000001D4D142ACEFA7E36E41.png
+.. |image14| image:: /images/space/10000201000002AD000001D4D142ACEFA7E36E41.png
    :width: 17cm
    :height: 11.613cm
-.. |image15| image:: Pictures/10000000000002AD000001D4316FCC45D85FE40B.png
+.. |image15| image:: /images/space/10000000000002AD000001D4316FCC45D85FE40B.png
    :width: 17cm
    :height: 11.613cm
-.. |image16| image:: Pictures/10000000000002AD000001D414A86BBBC483C1ED.png
+.. |image16| image:: /images/space/10000000000002AD000001D414A86BBBC483C1ED.png
    :width: 17cm
    :height: 11.613cm
