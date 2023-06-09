@@ -39,6 +39,14 @@ Press `File` -> `Save`
 
 |/images/save_project_dialogue.png|
 
+This will open the following dialogue:
+
+|/images/save_project_popup.png|
+
+Give your project a name and press save. Don't worry about the other options,
+they will only become relevant once you publish the track.
+
+From now on, all your changes wil automatically be stored in the cloud.
 
 Studio Overview
 ---------------
@@ -145,6 +153,9 @@ Congratulations!
 
 .. |/images/save_project_dialogue.png| image:: /images/save_project_dialogue.png
     :alt: Dialogue highlighting how to save a project
+
+.. |/images/save_project_popup.png| image:: /images/save_project_popup.png
+    :alt: Popup window showing how to save a file.
 
 .. |/images/sample-in-panel.png| image:: /images/sample-in-panel.png
     :alt: Arrow highlighting where the sample tab is in the panel
