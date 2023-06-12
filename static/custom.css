@@ -365,6 +365,10 @@ kbd {
   color: black !important;
 }
 
+pre,
+.docutils.literal.notranslate {
+  background-color: var(--grey2)
+}
 
 .rst-content .sidebar {
   background-color: var(--grey3);
