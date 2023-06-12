@@ -348,6 +348,10 @@ ul li a {
   color: var(--textColour);
 }
 
+ul li a:hover {
+  text-decoration: underline;
+}
+
 .admonition.note {
   background-color: var(--grey4);
 }
@@ -361,6 +365,10 @@ kbd {
   color: black !important;
 }
 
+pre,
+.docutils.literal.notranslate {
+  background-color: var(--grey2)
+}
 
 .rst-content .sidebar {
   background-color: var(--grey3);
