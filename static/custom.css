@@ -377,3 +377,12 @@ pre,
 .rst-content .sidebar .sidebar-title {
   background-color: var(--grey2);
 }
+
+.yt-video {
+  object-fit: cover;
+  object-position: center center;
+  border-radius: 5;
+  box-shadow: 0px 2px 5px black;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
