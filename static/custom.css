@@ -348,6 +348,10 @@ ul li a {
   color: var(--textColour);
 }
 
+ul li a:hover {
+  text-decoration: underline;
+}
+
 .admonition.note {
   background-color: var(--grey4);
 }
