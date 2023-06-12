@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Audiotool'
-copyright = '2023, Audiotool Inc.'
-author = 'Audiotool Inc.'
+copyright = '2023, Audiotool Inc'
+author = 'Audiotool Inc'
 
 # The full version, including alpha/beta/rc tags
 release = '0.1'
