@@ -1,59 +1,11 @@
-Space user manual
 
-A complete reference
+.. sidebar:: About the author
 
-by Jordi Moragues Massanet
+   `Jordi Moragues <https://www.audiotool.com/user/jordynth>`__ is an electronic music enthusiast from Barcelona, Spain,
+   now living in Athens, Greece. He started producing music with Audiotool
+   in 2013.
 
-About this manual
-=================
-
-This user manual is a comprehensive documentation for those wanting to
-get the most out of Audiotool’s new Space synthesizer. It contains
-detailed descriptions of each of its interface controls and features.
-
-The chapter `Space <#2.Space|outline>`__ describes Space’s main
-capabilities and operation. The sections below describe each one of its
-interface sections and controls in detail. Consult the
-`Glossary <#4.Glossary|outline>`__ if you need to learn the meaning of
-audio synthesis terms as they apply to Space.
-
-Disclaimer
-----------
-
-This manual describes Audiotool’s Space software synthesizer as of July
-2018. Although the author has made every effort to ensure that the
-information contained in it was correct at publish time, he does not
-assume and hereby disclaims any liability to any party for any loss,
-damage or disruption caused by errors or omissions, whether such errors
-or omissions result from negligence, accident or any other cause.
-
-Copyright notice
-----------------
-
-Copyright © 2018 by Jordi Moragues Massanet.
-
-All rights reserved. This manual or any portion thereof may not be
-reproduced or used in any manner whatsoever without the express written
-permission of the author except for the use in brief quotations in a
-review.
-
-Acknowledgements
-----------------
-
-The author wishes to thank wholeheartedly the
-`Audiotool <https://www.audiotool.com/>`__ team and especially `André
-Michelle <https://www.audiotool.com/user/andremichelle/>`__, the
-project's originator and current CTO, for providing in-depth information
-about Space and helping to check the accuracy of the content presented
-in this manual.
-
-About the author
-----------------
-
-Jordi Moragues is an electronic music enthusiast from Barcelona, Spain,
-now living in Athens, Greece. He started producing music with Audiotool
-in 2013. Visit his profile at:
-`www.audiotool.com/user/jordynth <https://www.audiotool.com/user/jordynth>`__
+   Thanks so much for sponsoring this manual to us!
 
 Space
 =====
