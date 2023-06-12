@@ -4,6 +4,7 @@ First Steps Video Tutorials
 The entire playlist can also be found on youtube `here <https://www.youtube.com/playlist?list=PLuZhzj4PboMnEfz2vK5vmolBlqdwh4svm>`_.
 
  * `Rendering Mixdowns from Your Audiotool Draft <https://youtu.be/q_N70vPb1uI>`_
+ * `How to connect my Midi Keyboard <https://youtu.be/9ePNfx6seQo>`_
  * `A Quick View on Audiotool's Workspace: Exploring Essential Functionalities <https://youtu.be/u1p0CcBY6VE>`_
  * `Essential Shortcuts for Productive Work in Audiotool <https://youtu.be/AkaVskB7ths>`_
  * `How to Invite Other Users to a Collaboration on Audiotool <https://youtu.be/2uy2leMQQX4>`_
