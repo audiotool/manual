@@ -7,6 +7,17 @@ Audiotool
 
 Welcome to the documentation of `audiotool.com`_!
 
+.. note:: **This website is work in progress**
+
+   Feel free to take a look around and use as applicable, but expect:
+
+   * lacking information
+   * outdated information
+   * broken formatting
+
+   If you notice anything, `let us know <https://github.com/audiotool/manual/issues>`_, or, better yet,
+   :ref:`help contribute! <Contribute>`!
+
 .. _audiotool.com: https://www.audiotool.com
 
 
