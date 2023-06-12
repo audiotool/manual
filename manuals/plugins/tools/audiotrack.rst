@@ -1,15 +1,22 @@
-Audiotrack
-==========
+.. sidebar::
 
-An audiotrack is a single channel device which allows you to add a
-library sample to your track. When you drag an audiotrack device to the
-desktop, a corresponding audio track is automatically created in the
-timeline. You can then drag a sample from the sample browser into the
-audiotrack's corresponding audio track in the timeline. NOTE: It is
-possible to drag a loop straight from the sample browser to the desktop.
-An Audiotrack will then be automatically created and the sample added to
-the timeline.
+  .. image:: /images/audiotrack.png
 
-|/images/audiotrack.png|
+Audio Track
+===========
 
-.. |/images/audiotrack.png| image:: /images/audiotrack.png
+The *Audio Track device* is the device that can be used to add and arrange
+audio files on the timeline. You can add an audio track by dragging
+the *Audio Track* devices from the device list onto the desktop.
+
+.. image:: /images/audio_track_device_in_device_list.png
+
+Each *Audio Track device* has one or multiple audio tracks associated with them
+on the timeline. 
+
+.. image:: /images/audio_track_overview.png
+
+There are different ways to place audio on an audio track. You can either :ref:`browse
+existing samples <The sample browser>` and select one for your project, :ref:`upload your own samples <Uploading your own sample>`,
+or :ref:`record a sample live <Live recording a new sample>`.
+
