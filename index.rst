@@ -92,4 +92,3 @@ Plugins
    :glob:
 
    manuals/other/*
-   Help Contribute! <https://github.com/audiotool/docs#contributing>
