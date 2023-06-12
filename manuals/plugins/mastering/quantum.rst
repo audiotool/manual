@@ -4,6 +4,8 @@ Quantum
 Quantum is a multi-band compressor with spectrum analyser for mastering
 purpose.
 
+.. image:: /images/quantum.png
+
 Features
 ^^^^^^^^
 

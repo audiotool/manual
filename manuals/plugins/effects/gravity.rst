@@ -4,6 +4,8 @@ Gravity
 Gravity is a single-band compressor with visual feedback according to
 its settings.
 
+.. image:: /images/gravity.png
+
 Parameter
 ~~~~~~~~~
 
