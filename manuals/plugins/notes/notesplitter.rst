@@ -4,6 +4,8 @@ Notesplitter
 The Notesplitter allows you to distribute notes to more than one
 synthesiser.
 
+.. image:: /images/notesplitter.png
+
 Manual
 ~~~~~~
 

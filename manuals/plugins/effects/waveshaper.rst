@@ -12,3 +12,6 @@ the incoming (or side-chained) signal to mix between the original or
 mapped signal. This can be used to only apply the full effect when the
 incoming signal is also busy. The Waveshaper supports 2x oversampling
 (default). Use this to create different types of distortion.
+
+
+.. image:: /images/waveshaper.png

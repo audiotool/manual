@@ -8,3 +8,6 @@ too. This is because a multiplication with zero is always zero. The
 boost control allows you to boost the output signal (up to 18db) -
 because often the result is far more quiet than before. The
 Ringmodulator uses 2x oversampling to reduce aliasing effects.
+
+
+.. image:: /images/ringmod.png
