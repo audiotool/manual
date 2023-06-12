@@ -80,7 +80,9 @@ modulation routing, Space excels at producing complex tones with rich
 and evolving timbres ideal for pads, string and wind instruments, vocal
 sounds including choirs, metallic, bell-like sounds and tonal noise.
 
-|image0|\ Figure 1: The Space.
+.. figure:: /images/space/10000000000002AD000001D48CCB814FFB0B80E4.png
+   
+   Figure 1: The Space.
 
 The interface of Space is divided in thirteen sections: the `selection
 buttons <#2.1.Selection buttons|outline>`__, the
@@ -106,7 +108,9 @@ A, B or the envelopes will be shown on the
 B’s spectrum parameters will be shown in the `spectrum/comb
 section <#2.4.Spectrum/Comb section|outline>`__.
 
-|image1|\ Figure 1.1: The Space's selection buttons.
+.. figure:: /images/space/10000201000002AD000001D446B039FDDDA0D4BE.png
+   
+   Figure 1.1: The Space's selection buttons.
 
 1. **Sound A**: This button selects the frequency spectrum of wave-table
    A to be shown on the `display <#2.2.Display|outline>`__ and its
@@ -130,9 +134,13 @@ The display shows the frequency spectrum of the selected wave-table or
 the amplitude and modulation envelopes. The envelopes screen lets you
 edit the shape of each envelope.
 
-|image2|\ Figure 1.2: The Space's display showing a frequency spectrum.
+.. figure:: /images/space/10000201000002AD000001D4579BD7C8DBC7C0E2.png
+   
+   Figure 1.2: The Space's display showing a frequency spectrum.
 
-|image3|\ Figure 1.3: The Space's display showing the envelopes.
+.. figure:: /images/space/10000201000002AD000001D454C30E7D7D7F1156.png
+   
+   Figure 1.3: The Space's display showing the envelopes.
 
 1. **Frequency spectrum**: The frequency spectrum shows the partials
    present in the selected wave-table. Each partial shows its relative
@@ -155,7 +163,9 @@ wave-tables, copy one wave-table to another and swap both wave-tables.
 *Note: Either the Sound A or Sound B selection button should be active
 to access the operation buttons.*
 
-|image4|\ Figure 1.4: The Space's operation buttons.
+.. figure:: /images/space/10000201000002AD000001D4CBCF760D17EA3956.png
+   
+   Figure 1.4: The Space's operation buttons.
 
 1. **Reset**: This button resets the spectrum parameters of the selected
    wave-table to default values.
@@ -180,7 +190,9 @@ When you change the value of any spectrum parameter, Space recalculates
 the corresponding wave-table. Therefore, to avoid playback glitches,
 these parameters cannot be automated.*
 
-|image5|\ Figure 1.5: The Space's spectrum/comb section.
+.. figure:: /images/space/10000201000002AD000001D4DEDE24071AC6426F.png
+
+   Figure 1.5: The Space's spectrum/comb section.
 
 1. **Dispersion**: This knob sets the bandwidth of each partial in the
    frequency spectrum, from narrow at minimum to wide at maximum.
@@ -219,7 +231,9 @@ a final sound. It also lets you set the intensity of mix modulation by
 the modulation envelope, the LFO, as well as the velocity and the pitch
 of incoming notes.
 
-|image6|\ Figure 1.6: The Space's A/B mix section.
+.. figure:: /images/space/10000201000002AD000001D4822D7F5D54990B11.png
+
+   Figure 1.6: The Space's A/B mix section.
 
 1. **Mix**: This knob balances the volume of wave-tables A and B in the
    mix, from wave-table A only at minimum through equal balance of
@@ -252,7 +266,9 @@ Peak meter section
 The peak meter section sports Space’s logo and lets you monitor the
 instantaneous level of Space’s audio output signal.
 
-|image7|\ Figure 1.7: The Space's peak meter section.
+.. figure:: /images/space/10000201000002AD000001D4ED7CCDA82CFBD8C8.png
+   
+   Figure 1.7: The Space's peak meter section.
 
 1. **Peak meter**: This meter is 72 pixels long. Its green range covers
    levels from -42 dB to -18 dB, the yellow range covers levels from -18
@@ -265,7 +281,9 @@ The amplitude envelope section lets you set the parameters and mode of
 operation of Space’s dedicated ADSR amplitude envelope. The amplitude
 envelope modulates the output volume exclusively.
 
-|image8|\ Figure 1.8: The Space's amplitude envelope section.
+.. figure:: /images/space/10000201000002AD000001D4502847CB8DF2D3F6.png
+
+   Figure 1.8: The Space's amplitude envelope section.
 
 1. **Attack**: This knob sets the attack time of the amplitude envelope
    in milliseconds or fractions of a bar. When the sync switch is off,
@@ -306,7 +324,9 @@ operation of Space’s ADSR modulation envelope. The modulation envelope
 can modulate the A/B mix, the global tuning, as well as the rate and the
 intensity of the LFO.
 
-|image9|\ Figure 1.9: The Space's modulation envelope section.
+.. figure:: /images/space/10000201000002AD000001D4EC8FC6464E514B85.png
+   
+   Figure 1.9: The Space's modulation envelope section.
 
 1. **Attack**: This knob sets the attack time of the modulation envelope
    in milliseconds or fractions of a bar. When the sync switch is off,
@@ -350,7 +370,9 @@ The LFO section lets you set the parameters and mode of operation of
 Space's LFO. The LFO can modulate the A/B mix, the global tuning, the
 stereo panning and the output volume.
 
-|image10|\ Figure 1.10: The Space's LFO section.
+.. figure:: /images/space/10000201000002AD000001D40040919630530868.png
+   
+   Figure 1.10: The Space's LFO section.
 
 1. **Wave**: This selector sets the waveform produced by the LFO. The
    available waveforms include sine, triangle, saw-tooth up, square and
@@ -392,7 +414,9 @@ The tuning section lets you tune wave-tables A and B and the global
 pitch. It also lets you set the intensity of global pitch modulation by
 the modulation envelope and the LFO.
 
-|image11|\ Figure 1.11: The Space's tuning section.
+.. figure:: /images/space/10000201000002AD000001D457AB937843B94177.png
+   
+   Figure 1.11: The Space's tuning section.
 
 1. **Tune A**: This bipolar knob tunes the pitch of wave-table A in
    cents, from one octave down at minimum through original pitch at
@@ -417,7 +441,9 @@ Glide section
 
 The glide section lets you glide the pitch of each played note.
 
-|image12|\ Figure 1.12: The Space's glide section.
+.. figure:: /images/space/10000201000002AD000001D4DFA6DED4E3E20D51.png
+   
+   Figure 1.12: The Space's glide section.
 
 1. **Time**: This knob sets the glide duration at the start of every
    note in milliseconds from 0 (no glide) at minimum to 5 seconds at
@@ -430,7 +456,9 @@ Stereo section
 The stereo section lets you apply stereo effects to the output like
 phase shift, detune and LFO modulated cross panning.
 
-|image13|\ Figure 1.13: The Space's stereo section.
+.. figure:: /images/space/10000201000002AD000001D414102E31040957F1.png
+   
+   Figure 1.13: The Space's stereo section.
 
 1. **Shift/Detune**: This multi-purpose knob sets the amount of stereo
    phase shift on its left range from no shift at minimum to maximum
@@ -450,7 +478,9 @@ The output section lets you set the voice mode, the output volume and
 the intensity of volume modulation by the LFO and the velocity of
 incoming notes.
 
-|image14|\ Figure 1.14: The Space's output section.
+.. figure:: /images/space/10000201000002AD000001D4D142ACEFA7E36E41.png
+
+   Figure 1.14: The Space's output section.
 
 1. **Mode**: This selector engages monophonic, legato or polyphonic
    voice mode. Click the Mode button to cycle through the available
@@ -481,7 +511,9 @@ You can access the device context menu by right-clicking an empty area
 of Space’s interface. It lets you control and manipulate the device's
 state globally in various ways.
 
-|image15|\ Figure 1.15.1: The Space’s device context menu.
+.. figure:: /images/space/10000000000002AD000001D4316FCC45D85FE40B.png
+
+   Figure 1.15.1: The Space’s device context menu.
 
 1. **Learn MIDI Keyboard**: This menu item opens the MIDI Learn
    dialogue, which lets you connect an external MIDI controller to the
@@ -521,7 +553,9 @@ control. It lets you reset, automate or map a particular control to a
 control in an external MIDI controller. *Note: For convenience, this
 menu also incorporates the items from the device context menu.*
 
-|image16|\ *Figure 1.15.2: The Space’s control context menu.*
+.. figure:: /images/space/10000000000002AD000001D414A86BBBC483C1ED.png
+
+   Figure 1.15.2: The Space’s control context menu.
 
 1. **Reset Parameter**: This menu item initializes the control to a
    default value.
@@ -753,56 +787,3 @@ playback can be modulated in a number of ways, for example by the pitch
 of the played note. Adjacent waveforms in the wave-table can be
 interpolated digitally. Space offers two wave-tables than can be mixed
 in a number of ways to create a complex tone.
-
-.. |image0| figure:: /images/space/10000000000002AD000001D48CCB814FFB0B80E4.png
-   :width: 17cm
-   :height: 11.613cm
-
-.. |image1| image:: /images/space/10000201000002AD000001D446B039FDDDA0D4BE.png
-   :width: 17cm
-   :height: 11.61cm
-.. |image2| image:: /images/space/10000201000002AD000001D4579BD7C8DBC7C0E2.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image3| image:: /images/space/10000201000002AD000001D454C30E7D7D7F1156.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image4| image:: /images/space/10000201000002AD000001D4CBCF760D17EA3956.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image5| image:: /images/space/10000201000002AD000001D4DEDE24071AC6426F.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image6| image:: /images/space/10000201000002AD000001D4822D7F5D54990B11.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image7| image:: /images/space/10000201000002AD000001D4ED7CCDA82CFBD8C8.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image8| image:: /images/space/10000201000002AD000001D4502847CB8DF2D3F6.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image9| image:: /images/space/10000201000002AD000001D4EC8FC6464E514B85.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image10| image:: /images/space/10000201000002AD000001D40040919630530868.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image11| image:: /images/space/10000201000002AD000001D457AB937843B94177.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image12| image:: /images/space/10000201000002AD000001D4DFA6DED4E3E20D51.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image13| image:: /images/space/10000201000002AD000001D414102E31040957F1.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image14| image:: /images/space/10000201000002AD000001D4D142ACEFA7E36E41.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image15| image:: /images/space/10000000000002AD000001D4316FCC45D85FE40B.png
-   :width: 17cm
-   :height: 11.613cm
-.. |image16| image:: /images/space/10000000000002AD000001D414A86BBBC483C1ED.png
-   :width: 17cm
-   :height: 11.613cm
