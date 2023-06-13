@@ -9,8 +9,9 @@ All audio tracks are placed on the desktop using the :ref:`Audio Track` device.
 The following page includes more detailed instructions on how to work with these
 devices.
 
-.. contents:: On this page
-    :depth: 2
+.. contents:: Table of Contents
+    :local:
+    :depth: 1
 
 
 Audio in the Timeline
