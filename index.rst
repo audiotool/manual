@@ -7,16 +7,10 @@ Audiotool
 
 Welcome to the documentation of `audiotool.com`_!
 
-.. note:: **This website is work in progress**
+.. note:: 
 
-   Feel free to take a look around and use as applicable, but expect:
-
-   * lacking information
-   * outdated information
-   * broken formatting
-
-   If you notice anything, `let us know <https://github.com/audiotool/manual/issues>`_, or, better yet,
-   :ref:`help contribute! <Contribute>`!
+   This website is a community effort -  `let us know <https://github.com/audiotool/manual/issues>`_ if you notice anything that could be improved,
+   or head over to :ref:`how to contribute <Contribute>` to see how you can work on the documentation yourself!
 
 .. _audiotool.com: https://www.audiotool.com
 
