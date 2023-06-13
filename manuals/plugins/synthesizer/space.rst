@@ -36,20 +36,9 @@ sounds including choirs, metallic, bell-like sounds and tonal noise.
    
    Figure 1: The Space.
 
-The interface of Space is divided in thirteen sections: the `selection
-buttons <#2.1.Selection buttons|outline>`__, the
-`display <#2.2.Display|outline>`__, the `operation
-buttons <#2.3.Operation buttons|outline>`__, the `spectrum/comb
-section <#2.4.Spectrum/Comb section|outline>`__, the `A/B mix
-section <#2.5.A/B mix section|outline>`__, the `peak meter
-section <#2.6.Peak meter section|outline>`__, the `amplitude envelope
-section <#2.7.Amplitude envelope section|outline>`__, the `modulation
-envelope section <#2.8.Modulation envelope section|outline>`__, the
-`LFO <#2.9.LFO section|outline>`__\ `section <#2.9.LFO section|outline>`__,
-the `tuning section <#2.10.Tuning section|outline>`__, the `glide
-section <#2.11.Glide section|outline>`__, the `stereo
-section <#2.12.Stereo section|outline>`__ and the `output
-section <#2.13.Output section|outline>`__.
+.. contents:: Table of Contents
+    :local:
+    :depth: 2
 
 Selection buttons
 -----------------
