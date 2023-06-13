@@ -1,7 +1,7 @@
 Centroid
 ========
 
-The Centroid is a 16-track studio mixer. Each of the 16 channels have
+The Centroid is a studio mixer with up to 32 channels. Each of the channels have
 the same functionality, each channel includes a semi-parametric
 equaliser, panning and gain controls. The centroid also includes 2
 auxiliary send/return inputs, this makes it possible for 2 different
@@ -15,9 +15,8 @@ machine that will still work even if you stand on it.
 Channel Controls
 ~~~~~~~~~~~~~~~~
 
-This is where each inputed channel can be adjusted individually. All of
-the 16 channels include exactly the same parameters, for this reason the
-below image only labels the parameters of Channel 3.
+This is where each inputed channel can be adjusted individually. All channels include exactly
+the same parameters, for this reason the below image only labels the parameters of Channel 3.
 
 **NOTE:** *The below image only shows the controls found on channel 3
 although all channel parameters work the same way for each channel.*
@@ -102,3 +101,24 @@ send/return with aux 1.*
 .. |/images/centroid2.png| image:: /images/centroid2.png
 .. |/images/centroid5.png| image:: /images/centroid5.png
 .. |/images/centroid4.png| image:: /images/centroid4.png
+
+
+Adjust number of channels
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The number of channels on the centroid isn't static;
+it can be extended to up to 32, or shrunken down to 4 channels.
+
+To add or remove a channel, simply right click on a channel:
+
+.. image:: /images/centroid_insert_channel_righclick.png
+
+You can also focus the Centroid (e.g. click on it)
+and use SHIFT+RIGHT to extend or SHIFT+LEFT to reduce the amount of
+channels. A warning will appear if a channel is about to be removed that
+is actually connected.
+
+Channels without a custom name will now be named automatically. The
+Centroid basically traces the input signal flow, tries to find the best
+matching device and assigns its name to the channel. You can always
+override it with your own naming.
