@@ -388,3 +388,8 @@ pre,
   margin-bottom: 20px;
   margin-top: 40px;
 }
+
+
+.hide-h2s h2 {
+  display: none;
+}
