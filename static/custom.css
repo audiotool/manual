@@ -258,7 +258,8 @@ div.wy-nav-content {
   ;
 }
 
-div.wy-nav-content a {
+div.wy-nav-content a, 
+.std.std-ref {
   color: var(--blue);
 }
 
@@ -339,10 +340,11 @@ a.fa.fa-github {
   color: var(--textColour);
 }
 
-p {
+p,
+.rst-content .toc-backref  {
   color: var(--grey9);
 }
-
+.rst-content .toc-backref
 
 ul li a {
   color: var(--textColour);
