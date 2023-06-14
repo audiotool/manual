@@ -21,7 +21,7 @@ Installers
 ------------------
 
 * `Windows (7+) <https://www.audiotool.com/app/booster/AudiotoolBooster-0.2.exe>`_ [#windows]_
-* `Mac <https://www.audiotool.com/app/booster/AudiotoolBooster-0.2.dmg>`_ [#mac]_
+* `Mac <https://www.audiotool.com/app/booster/AudiotoolBooster-0.2.dmg>`_ [#macos]_
 * `Linux (Debian based) <https://www.audiotool.com/app/booster/audiotool-booster_1.0-1.deb>`_
 * `Jar File <https://www.audiotool.com/app/booster/launcher.jar>`_ [#jar]_
 
@@ -29,5 +29,5 @@ If you're using Chromebooks, check the specific version of your laptop; it might
 
 
 .. [#windows] Since the application isn't signed, you might get a warning when installing.
-.. [#mac] Since the application isn't signed you need to right click the booster app and choose open from the context menu. Also note that is an Intel only application.
+.. [#macos] Since the application isn't signed you need to right click the booster app and choose open from the context menu. Also note that is an Intel only application.
 .. [#jar] Experience users might run the jar file directly. For that, install Java 8+, then run with ``java -jar launcher.jar``.
