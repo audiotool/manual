@@ -391,5 +391,18 @@ pre,
 
 
 .hide-h2s h2 {
-  display: none;
+  /* display: none; */
+  border-top: 1px solid var(--grey6) !important;
+  padding-top: 30px;
+  margin-bottom: 20px;
+}
+
+
+.yt-video-iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px black;
+    /* background-color: black; */
+    margin-bottom: 20px;
 }
