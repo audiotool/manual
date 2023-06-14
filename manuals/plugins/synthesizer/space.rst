@@ -35,7 +35,7 @@ sounds including choirs, metallic, bell-like sounds and tonal noise.
 .. figure:: /images/space/10000000000002AD000001D48CCB814FFB0B80E4.png
    :align: center
       
-   Figure 1: The Space.
+   The Space.
 
 .. contents:: Table of Contents
     :local:
@@ -53,7 +53,7 @@ section <spectrum/comb section>`.
 .. figure:: /images/space/10000201000002AD000001D446B039FDDDA0D4BE.png
    :align: center
       
-   Figure 1.1: The Space's selection buttons.
+   The Space's selection buttons.
 
 1. **Sound A**: This button selects the frequency spectrum of wave-table
    A to be shown on the :ref:`display <Display>` and its
@@ -80,12 +80,12 @@ edit the shape of each envelope.
 .. figure:: /images/space/10000201000002AD000001D4579BD7C8DBC7C0E2.png
    :align: center
       
-   Figure 1.2: The Space's display showing a frequency spectrum.
+   The Space's display showing a frequency spectrum.
 
 .. figure:: /images/space/10000201000002AD000001D454C30E7D7D7F1156.png
    :align: center
       
-   Figure 1.3: The Space's display showing the envelopes.
+   The Space's display showing the envelopes.
 
 1. **Frequency spectrum**: The frequency spectrum shows the partials
    present in the selected wave-table. Each partial shows its relative
@@ -111,7 +111,7 @@ to access the operation buttons.*
 .. figure:: /images/space/10000201000002AD000001D4CBCF760D17EA3956.png
    :align: center
       
-   Figure 1.4: The Space's operation buttons.
+   The Space's operation buttons.
 
 1. **Reset**: This button resets the spectrum parameters of the selected
    wave-table to default values.
@@ -139,7 +139,7 @@ these parameters cannot be automated.*
 .. figure:: /images/space/10000201000002AD000001D4DEDE24071AC6426F.png
    :align: center
    
-   Figure 1.5: The Space's spectrum/comb section.
+   The Space's spectrum/comb section.
 
 1. **Dispersion**: This knob sets the bandwidth of each partial in the
    frequency spectrum, from narrow at minimum to wide at maximum.
@@ -181,7 +181,7 @@ of incoming notes.
 .. figure:: /images/space/10000201000002AD000001D4822D7F5D54990B11.png
    :align: center
    
-   Figure 1.6: The Space's A/B mix section.
+   The Space's A/B mix section.
 
 1. **Mix**: This knob balances the volume of wave-tables A and B in the
    mix, from wave-table A only at minimum through equal balance of
@@ -217,7 +217,7 @@ instantaneous level of Space's audio output signal.
 .. figure:: /images/space/10000201000002AD000001D4ED7CCDA82CFBD8C8.png
    :align: center
       
-   Figure 1.7: The Space's peak meter section.
+   The Space's peak meter section.
 
 1. **Peak meter**: This meter is 72 pixels long. Its green range covers
    levels from -42 dB to -18 dB, the yellow range covers levels from -18
@@ -233,7 +233,7 @@ envelope modulates the output volume exclusively.
 .. figure:: /images/space/10000201000002AD000001D4502847CB8DF2D3F6.png
    :align: center
    
-   Figure 1.8: The Space's amplitude envelope section.
+   The Space's amplitude envelope section.
 
 1. **Attack**: This knob sets the attack time of the amplitude envelope
    in milliseconds or fractions of a bar. When the sync switch is off,
@@ -277,7 +277,7 @@ intensity of the LFO.
 .. figure:: /images/space/10000201000002AD000001D4EC8FC6464E514B85.png
    :align: center
 
-   Figure 1.9: The Space's modulation envelope section.
+   The Space's modulation envelope section.
 
 1. **Attack**: This knob sets the attack time of the modulation envelope
    in milliseconds or fractions of a bar. When the sync switch is off,
@@ -324,7 +324,7 @@ stereo panning and the output volume.
 .. figure:: /images/space/10000201000002AD000001D40040919630530868.png
    :align: center
       
-   Figure 1.10: The Space's LFO section.
+   The Space's LFO section.
 
 1. **Wave**: This selector sets the waveform produced by the LFO. The
    available waveforms include sine, triangle, saw-tooth up, square and
@@ -369,7 +369,7 @@ the modulation envelope and the LFO.
 .. figure:: /images/space/10000201000002AD000001D457AB937843B94177.png
    :align: center
       
-   Figure 1.11: The Space's tuning section.
+   The Space's tuning section.
 
 1. **Tune A**: This bipolar knob tunes the pitch of wave-table A in
    cents, from one octave down at minimum through original pitch at
@@ -397,7 +397,7 @@ The glide section lets you glide the pitch of each played note.
 .. figure:: /images/space/10000201000002AD000001D4DFA6DED4E3E20D51.png
    :align: center
       
-   Figure 1.12: The Space's glide section.
+   The Space's glide section.
 
 1. **Time**: This knob sets the glide duration at the start of every
    note in milliseconds from 0 (no glide) at minimum to 5 seconds at
@@ -413,7 +413,7 @@ phase shift, detune and LFO modulated cross panning.
 .. figure:: /images/space/10000201000002AD000001D414102E31040957F1.png
    :align: center
       
-   Figure 1.13: The Space's stereo section.
+   The Space's stereo section.
 
 1. **Shift/Detune**: This multi-purpose knob sets the amount of stereo
    phase shift on its left range from no shift at minimum to maximum
@@ -436,7 +436,7 @@ incoming notes.
 .. figure:: /images/space/10000201000002AD000001D4D142ACEFA7E36E41.png
    :align: center
    
-   Figure 1.14: The Space's output section.
+   The Space's output section.
 
 1. **Mode**: This selector engages monophonic, legato or polyphonic
    voice mode. Click the Mode button to cycle through the available
@@ -470,7 +470,7 @@ state globally in various ways.
 .. figure:: /images/space/10000000000002AD000001D4316FCC45D85FE40B.png
    :align: center
    
-   Figure 1.15.1: The Space's device context menu.
+   The Space's device context menu.
 
 1. **Learn MIDI Keyboard**: This menu item opens the MIDI Learn
    dialogue, which lets you connect an external MIDI controller to the
@@ -513,7 +513,7 @@ menu also incorporates the items from the device context menu.*
 .. figure:: /images/space/10000000000002AD000001D414A86BBBC483C1ED.png
    :align: center
    
-   Figure 1.15.2: The Space's control context menu.
+   The Space's control context menu.
 
 1. **Reset Parameter**: This menu item initializes the control to a
    default value.
