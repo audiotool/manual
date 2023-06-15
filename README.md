@@ -1,16 +1,5 @@
-# Audiotool Documentation
+# Audiotool Manual
 
-_currently work in progress_
+This is the repository of the official audiotool manual - read at [manual.audiotool.com](https://manual.audiotool.com).
 
-
-## Website
-Read the documentation at [manual.audiotool.com](https://manual.audiotool.com).
-
-## Contribute
-
-Everyone is welcome to contribute! Please read [contribute](https://manual.audiotool.com/manuals/other/contribute.html) for
-more information.
-
-
-## This repository
-This repository contains the source files shown on the documentation website.
+Head over to [How to Contribute](https://manual.audiotool.com/manuals/other/contribute.html) if you'd like to contribute!
