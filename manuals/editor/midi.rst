@@ -38,3 +38,5 @@ Again Audiotool will wait for you to turn a knob or move a slider on your Midi C
 Important Notice
 ^^^^^^^^^^^^^^^^
 To get the best latency possible within a web browser make sure to install the :ref:`booster`.
+
+Watch the video: :ref:`Using Midi Keyboard`

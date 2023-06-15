@@ -195,12 +195,13 @@ upload. You are done!
 The sample browser
 ------------------
 
-*todo*
+For a quick overview watch this video: :ref:`The Sample Library`
+
 
 Uploading your own sample
 -------------------------
 
-*todo*
+For a quick overview watch this video: :ref:`Upload Samples`
 
 
 .. rubric:: Footnotes
