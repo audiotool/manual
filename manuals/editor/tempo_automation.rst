@@ -1,8 +1,8 @@
 Tempo Automation
 ================
 
-The bpm of a track can now be automated. Just open the master section in
-the timeline. 
+The bpm of a track can be automated. Just open the master section in
+the timeline and add keyframes at the desiered location.
 
 .. image:: /images/BPM-automation.png
 

@@ -31,6 +31,8 @@ If the tempo is static, we will send the bpm to **Probe** as well and
 immediately open the beat-grid feature to quickly cut your work in
 beats.
 
-**Enjoy!**
 
 Watch the video: :ref:`Bounce Timeline`
+
+
+**Enjoy!**
