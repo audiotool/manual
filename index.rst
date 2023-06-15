@@ -85,4 +85,5 @@ Plugins
    :maxdepth: 1
    :glob:
 
-   manuals/other/*
+   manuals/other/performance_issues
+   manuals/other/contribute
