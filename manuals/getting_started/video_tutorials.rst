@@ -38,7 +38,7 @@ Add Devices
 
 .. cssclass:: center
 
-Add Synth
+Add Synthesisers
 --------------------------------------------
 
 .. raw:: html
@@ -60,7 +60,7 @@ Connect Devices with Cables
 
 .. cssclass:: center
 
-Adding Effects
+Add Effects
 --------------------------------------------
 
 .. raw:: html
@@ -89,6 +89,17 @@ Add Samples
 
     
     <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/xFNrKVSA0fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+.. cssclass:: center
+
+Audio Recording
+--------------------------------------------
+
+.. raw:: html
+
+    
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/MtAWe4htK3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
@@ -276,17 +287,6 @@ Bounce Timeline
 
     
     <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/PYoCCQfsnrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-.. cssclass:: center
-
-Audio Recording
---------------------------------------------
-
-.. raw:: html
-
-    
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/MtAWe4htK3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
