@@ -32,3 +32,5 @@ immediately open the beat-grid feature to quickly cut your work in
 beats.
 
 **Enjoy!**
+
+Watch the video: :ref:`Bounce Timeline`
