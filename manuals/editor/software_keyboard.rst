@@ -2,7 +2,7 @@ Software Keyboard
 =================
 
 If you do not have a midi-keyboard you can open a software-keyboard by
-using the context-menu on a synthesiser. 
+using the menu-bar on a synthesiser. 
 
 
 .. image:: /images/SWKeyboard-icon.png
