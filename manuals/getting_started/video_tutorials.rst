@@ -104,6 +104,17 @@ Audio Recording
 
 .. cssclass:: center
 
+Using Midi Keyboard
+--------------------------------------------
+
+.. raw:: html
+
+    
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/9ePNfx6seQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+.. cssclass:: center
+
 The Mixer
 --------------------------------------------
 
@@ -111,6 +122,17 @@ The Mixer
 
     
     <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/1IONCLnK-xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+.. cssclass:: center
+
+Using the Mixer Aux
+--------------------------------------------
+
+.. raw:: html
+
+    
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/TscDCidWOek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
@@ -148,17 +170,6 @@ TAB Key Navigation
 
 .. cssclass:: center
 
-Using Midi Keyboard
---------------------------------------------
-
-.. raw:: html
-
-    
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/9ePNfx6seQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-.. cssclass:: center
-
 Editing Tools
 --------------------------------------------
 
@@ -166,17 +177,6 @@ Editing Tools
 
     
     <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/VFclPSN47fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-.. cssclass:: center
-
-Using the Mixer Aux
---------------------------------------------
-
-.. raw:: html
-
-    
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/TscDCidWOek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
