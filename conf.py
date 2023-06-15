@@ -64,6 +64,8 @@ html_theme_options = {
     # where "prev"/"next" buttons are shown; bottom, top or both
     'prev_next_buttons_location': 'bottom',
 
+    'sticky_navigation': False,
+
     # add arrow symbol to links pointing outside docs
     'style_external_links': True,
 
