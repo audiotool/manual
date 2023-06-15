@@ -44,7 +44,7 @@ Add Synthesisers
 .. raw:: html
 
     
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/jHzfDP4nl5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/cKjbb-n0i-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
@@ -121,7 +121,7 @@ The Mixer
 .. raw:: html
 
     
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/1IONCLnK-xk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/PT8aC8-TttM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
@@ -154,7 +154,7 @@ Right Click Menu
 .. raw:: html
 
     
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/xkatALuDuvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/8PltCMSFu2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
@@ -165,7 +165,7 @@ TAB Key Navigation
 .. raw:: html
 
     
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/cLVZuaSGauQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/8660YtV_V0o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
@@ -198,7 +198,7 @@ Load Presets
 .. raw:: html
 
     
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/QIv2tNJdtXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/DJWNNW21OCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
@@ -209,7 +209,7 @@ Save Presets
 .. raw:: html
 
     
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/MWM0qby-oQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/4WfNUpmAGE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
@@ -231,7 +231,7 @@ Edit Note Regions Part 2
 .. raw:: html
 
     
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/dsJNY9WkAMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/nb_W4Gmqov4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
@@ -286,7 +286,7 @@ Bounce Timeline
 .. raw:: html
 
     
-    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/PYoCCQfsnrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe class="yt-video-iframe" loading="lazy" src="https://youtube.com/embed/TPsxDG45vHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 .. cssclass:: center
