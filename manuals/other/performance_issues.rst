@@ -15,7 +15,6 @@ Update Chrome
 
 Free up system resources
     -  Close any browser **tabs** you don't need.
-       creating possible interferences.
     -  Quit **background software** like Skype, WhatsApp, Dropbox, Slack,
        etc.
     -  Check for **CPU intensive**, unnecessary processes in your Task
