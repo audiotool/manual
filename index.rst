@@ -7,6 +7,10 @@ Audiotool
 
 Welcome to the documentation of `audiotool.com <https://www.audiotool.com>`_!
 
+If this is your first time, check out the :ref:`getting started <Your first project>` page or 
+watch the :ref:`first steps video series <Video Tutorials>`.
+
+
 
 
 
