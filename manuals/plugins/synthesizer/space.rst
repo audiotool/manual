@@ -5,7 +5,7 @@
    now living in Athens, Greece. He started producing music with Audiotool
    in 2013.
 
-   Thanks so much for sponsoring this manual to us!
+   Thanks for writing this manual for us!
 
 Space
 =====
