@@ -39,35 +39,74 @@ Plugins
    :maxdepth: 1
    :glob:
 
-   manuals/plugins/drums/*
+   manuals/plugins/drums/machiniste
+   manuals/plugins/drums/beatbox_8
+   manuals/plugins/drums/beatbox_9
 
 .. toctree::
    :caption: Synthesizer
    :maxdepth: 1
    :glob:
 
-   manuals/plugins/synthesizer/*
+   manuals/plugins/synthesizer/bassline
+   manuals/plugins/synthesizer/pulverisateur
+   manuals/plugins/synthesizer/heisenberg
+   manuals/plugins/synthesizer/tone_matrix
+   manuals/plugins/synthesizer/space
 
 .. toctree::
    :caption: Tools
    :maxdepth: 1
    :glob:
 
-   manuals/plugins/tools/*
+   manuals/plugins/tools/audiotrack
+   manuals/plugins/tools/minimixer
+   manuals/plugins/tools/kobolt
+   manuals/plugins/tools/crossfader
+   manuals/plugins/tools/centroid
+   manuals/plugins/tools/bandsplitter
+   manuals/plugins/tools/splitter
+   manuals/plugins/tools/merger
+   manuals/plugins/tools/panorama
+   manuals/plugins/tools/tinygain
 
 .. toctree::
    :caption: Mastering
    :maxdepth: 1
    :glob:
 
-   manuals/plugins/mastering/*
+   manuals/plugins/mastering/quantum
+   manuals/plugins/mastering/curve
 
 .. toctree::
    :caption: Effects
    :maxdepth: 1
    :glob:
 
-   manuals/plugins/effects/*
+   manuals/plugins/effects/chorus
+   manuals/plugins/effects/compressor
+   manuals/plugins/effects/crusher
+   manuals/plugins/effects/delay
+   manuals/plugins/effects/flanger
+   manuals/plugins/effects/gate_effect
+   manuals/plugins/effects/parametric_equaliser
+   manuals/plugins/effects/phaser
+   manuals/plugins/effects/pitch_delay
+   manuals/plugins/effects/reverb
+   manuals/plugins/effects/slope
+   manuals/plugins/effects/stereo_detune
+   manuals/plugins/effects/tube_distortion
+   manuals/plugins/effects/quasar
+   manuals/plugins/effects/rasselbock
+   manuals/plugins/effects/autofilter
+   manuals/plugins/effects/graphical_equalizer
+   manuals/plugins/effects/pulsar_delay
+   manuals/plugins/effects/waveshaper
+   manuals/plugins/effects/gravity
+   manuals/plugins/effects/helmholtz
+   manuals/plugins/effects/stereo_enhancer
+   manuals/plugins/effects/exciter
+   manuals/plugins/effects/ringmodulator
 
 
 .. toctree::
@@ -76,7 +115,8 @@ Plugins
    :maxdepth: 1
    :glob:
 
-   manuals/plugins/notes/*
+   manuals/plugins/notes/matrix
+   manuals/plugins/notes/notesplitter
 
 
 .. toctree::
@@ -86,7 +126,6 @@ Plugins
 
    manuals/other/performance_issues
    manuals/other/contribute
-   manuals/other/*
 
 
 
