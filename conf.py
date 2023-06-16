@@ -93,6 +93,9 @@ html_static_path = ['static']
 html_css_files = [
     "custom.css"
 ]
+html_js_files = [
+    'custom.js',
+]
 
 html_show_sphinx = False
 
