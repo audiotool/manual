@@ -80,17 +80,17 @@
 
 /* Vars */
 :root {
-  --textColour: #ffffff;
+  --textColour: #c3c3c3;
   --blue: #05aff2;
-  --grey2: #1d1f27;
-  --grey3: #272934;
-  --grey4: #2c2e3b;
-  --grey5: #313341;
-  --grey6: rgba(255, 255, 255, 0.4);
-  --grey7: rgba(255, 255, 255, 0.5);
-  --grey8: rgba(255, 255, 255, 0.6);
-  --grey9: rgba(255, 255, 255, 0.8);
-  --brighter: #313341aa;
+  --grey2: #181818;
+  --grey3: #202020;
+  --grey4: #292929;
+  --grey5: #454545;
+  --grey6: #505050;
+  --grey7: #606060;
+  --grey8: #707070;
+  --grey9: #aaa;
+  --brighter: #2E2E2E;
 }
 
 /* Body */
@@ -301,7 +301,12 @@ a.reference.internal:hover {
 .toctree-l3>a.reference.internal {
   background-color: var(--grey3) !important;
   border: 0 !important;
-  color: var(--grey8) !important;
+  color: var(--grey9) !important;
+}
+
+li.toctree-l4>a.reference.internal {
+  background-color: var(--grey4) !important;
+  border: 0 !important;
 }
 
 * {
@@ -413,3 +418,7 @@ pre,
   text-align: center;
 }
 
+img {
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px var(--grey2);
+}
