@@ -29,7 +29,7 @@ computer so see what your changes look like.
 First, you need to:
 
 * `install sphinx <https://www.sphinx-doc.org/en/master/usage/installation.html>`_
-* install the theme: ``python3 -m pip install sphinx_rtd_theme``
+* install extension: ``python3 -m pip install sphinx-rtd-theme sphinx-sitemap``
 
 Then, everytime you make a change [#rebuild]_, rebuild with:: 
 
