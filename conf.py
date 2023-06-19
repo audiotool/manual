@@ -31,8 +31,12 @@ release = '0.1'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx.ext.autosectionlabel'
+    'sphinx.ext.autosectionlabel',
+    'sphinx_sitemap'
 ]
+
+# sphinx_sitemap config
+sitemap_url_scheme = "{link}"
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -99,4 +103,6 @@ html_js_files = [
 
 html_show_sphinx = False
 
-logo_url = "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d05ec3744972a3774cc038fe42484954/audiotool.png"
+html_baseurl = 'https://manual.audiotool.com/'
+
+# logo_url = "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d05ec3744972a3774cc038fe42484954/audiotool.png"
