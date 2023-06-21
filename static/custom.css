@@ -410,6 +410,10 @@ pre,
     border-radius: 5px;
     box-shadow: 0px 2px 5px black;
     background-color: black;
+    margin-bottom: 60px;
+}
+
+.youtube-video {
     margin-bottom: 100px;
     margin-top: 40px;
 }
@@ -421,4 +425,47 @@ pre,
 img {
   border-radius: 5px;
   box-shadow: 0px 2px 5px var(--grey2);
+}
+
+
+
+.youtube-like, .youtube-dislike {
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0,0,0,0);
+    border: 1px solid var(--grey9) !important;
+}
+
+.youtube-like {
+    border-radius: 40px;
+    margin-bottom: 35px;
+    margin-right: -1px;
+    float: right;
+}
+
+.svg-icon {
+    border: 0px;
+    box-shadow: none;
+    border-radius: 0;
+    height: 13px !important;
+    text-align: center;
+}
+
+.like-buttons {
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 5px;
+}
+
+.youtube-like.liked {
+  background-color: var(--blue);
+}
+
+.yt-video-section h2 {
+  float: left;
+  margin-bottom: 0;
+}
+
+.yt-video-section .like-buttons {
+  float: right;
 }
