@@ -16,7 +16,7 @@ Every device which can play Midi notes will have a Midi icon in its menu bar.
 
 When clicking this icon Audiotool will wait for you to play a note on your Midi Meyboard.
 Once you have done so you can play the device with your Midi Keyboard.
-If you have multiple Midi Keyboards you can easily assing different Keyboard to different synthesisers.
+If you have multiple Midi Keyboards you can easily assign different Keyboard to different synthesisers.
 You can also connect one Midi Keyboard to multiple synthesisers.
 Or try to use the :ref:`Notesplitter` to play multiple synthesisers with one Midi Keyboard.
 

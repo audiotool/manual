@@ -3,7 +3,7 @@ Stereo Enhancer
 
 The Stereo Enhancer changes the stereo image of the input signal. This
 device allows you to blend the signal from mono to an increased stereo
-spread. This device works by splitting the frequency band of the inputed
+spread. This device works by splitting the frequency band of the inputted
 signal and then delaying the higher frequencies before merging the
 signals back together.
 

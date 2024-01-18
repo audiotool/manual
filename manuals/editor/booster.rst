@@ -11,7 +11,7 @@ To use the booster, install it from one of the sources below, then launch it.
 A small system tray icon should indicate that the booster is running.
 
 After starting, go to `studio.audiotool.com <https://studio.audiotool.com>`_ as usual.
-The text "Booster" (instead of "Worklet") at the bottom of the website should now indicate that Audiotool succesfully connected
+The text "Booster" (instead of "Worklet") at the bottom of the website should now indicate that Audiotool successfully connected
 to the booster and is now running with the booster as audio engine.
 
 .. image:: /images/booster_connected.png

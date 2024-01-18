@@ -47,7 +47,7 @@ mouse and dragging up or down to add a value to the grid.
     on what is selected). If the semitone is set to a value of 0 the
     frequency of the incoming note will not change. If the semitone
     value is set to 1 the operator will play the note 1 semitone higher
-    than the incoming note. If ratio is selected the inputed values will
+    than the incoming note. If ratio is selected the inputted values will
     multiply or divide the frequency of the incoming note. If the ratio
     is set to 1 then the frequency of the incoming note will not change,
     if the ratio is set to 2 then the operator will play the the

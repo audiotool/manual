@@ -21,7 +21,7 @@ Free up system resources
        Manager (Windows) or Activity Monitor (Mac).
     -  Free up **space** on your hard disk if your machine runs out of it.
 
-Remove unneded extensions
+Remove unneeded extensions
    Run the Studio in **incognito mode** to prevent extensions from interfering with the studio.
 
 Reduce window size

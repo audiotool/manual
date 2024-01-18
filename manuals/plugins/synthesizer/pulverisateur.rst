@@ -73,16 +73,16 @@ Audio IN
 ~~~~~~~~
 
 The Audio IN allows you to use the output of another sound source with
-the Pulverisateur. This means that any signal that is inputed will be
+the Pulverisateur. This means that any signal that is inputted will be
 affected by the Pulverisateur's filter and filter modulation controls.
-NOTE: The inputed audio signal will only be heard if the there are notes
+NOTE: The inputted audio signal will only be heard if the there are notes
 in the Pulverisateur's note track or on whatever device is being used to
 sequence the pulverisateur.
 
 |/images/pulverisateur5.png|
 
 1. **on/off** - Turns the audio input on or off.
-2. **panning** - Controls the stereo position of the inputed audio.
+2. **panning** - Controls the stereo position of the inputted audio.
 3. **level** - Volume
 4. **drive** - The drive allows for slight distortion to be applied to
    the input signal.
