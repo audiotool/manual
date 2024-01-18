@@ -18,7 +18,7 @@ Instrument Controls
 
 The Beatbox 9 is sequenced by selecting the instrument you want to use
 and then clicking on the sequencing button or buttons that correspond to
-where you want to the hit to occour in the sequence. Only one instrument
+where you want to the hit to occur in the sequence. Only one instrument
 can be added to the sequence at a time. Each instrument has its own set
 of parameter controls which allow for the sound of each instrument to be
 modified individually.

@@ -2,7 +2,7 @@ Compressor
 ==========
 
 The Compressor effect pedal allows for reduction of the dynamic range of
-the inputed audio signal by narrowing the difference between the high
+the inputted audio signal by narrowing the difference between the high
 and low levels of volume (amplitude). Compression can be used to make
 your music sound louder without increasing its peak amplitude. It can be
 used to make quieter sounds louder while leaving louder sounds

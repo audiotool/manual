@@ -2,10 +2,10 @@ Gate Effect
 ===========
 
 The Gate effect pedal can be used to mute out unwanted sounds from the
-inputed audio signal by gating out sounds under a given threshold. The
+inputted audio signal by gating out sounds under a given threshold. The
 Gate pedal also has a side-chain input, this allows for the signal from
 another device to be used to trigger the gate. For example, if a synth
-is inputed into the Gate and then a drum machine is side-chained through
+is inputted into the Gate and then a drum machine is side-chained through
 the Gate, the Gate will only become active when the drum machine makes a
 sound.
 

@@ -2,7 +2,7 @@ Autofilter
 ==========
 
 The autofilter is a filter that can have its cut-off frequency altered
-either by the inputed signal or by its side-chain input (if used).
+either by the inputted signal or by its side-chain input (if used).
 
 |/images/autofilter2.png|
 
@@ -25,7 +25,7 @@ either by the inputed signal or by its side-chain input (if used).
 10. **dry/wet** - The dry/wet parameter lets you blend between the
     original (dry) and the filtered signal (wet). Turning the dry/wet to
     0% will mean that the signal will pass through the device unchanged.
-11. **side-chain** - If a second signal is inputed into the autofilter's
+11. **side-chain** - If a second signal is inputted into the autofilter's
     side-chain then the filter will react on the side-chain input
     instead of the main input signal.
 

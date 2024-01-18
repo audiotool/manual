@@ -8,7 +8,7 @@ out off and then back into the Minimixer, this makes it possible for
 effects to be applied through all of the mixers channels without having
 to apply effects separately through each channel individually. Upon
 doing this it is possible to control how much each channel is affected
-by the inputed effect or effects with each channels individual AUX
+by the inputted effect or effects with each channels individual AUX
 controls.
 
 |/images/minimixer.png|
