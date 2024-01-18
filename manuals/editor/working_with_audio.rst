@@ -24,7 +24,7 @@ of audio which you can arrange on the timeline. The following image shows three 
 
 
 From this view, you can drag the regions around and change their length. To
-see a more detailed view of the audio, doube clikc a region to see the waveform.
+see a more detailed view of the audio, double clikc a region to see the waveform.
 
 .. figure:: /images/audio_regions_numbered.png
 
@@ -68,7 +68,7 @@ and then drag the automation handle around, you can see the waveform changing as
 the sample changes in various parts of the sample.
 
 For example, let's consider the following change in playback speed. In this image, we created
-a new automation handle by double clicking anywhere in the sample, then draging the handle to 
+a new automation handle by double clicking anywhere in the sample, then dragging the handle to 
 the location shown in the image:
 
 

@@ -107,7 +107,7 @@ the "Pulverisateur". With so many knobs and buttons, it might seem intimidating,
 
 |/images/drag-pulv-to-desktop.gif|
 
-Notice that in the timeline, a row called "Pulverisateur" has appered. This is a *note track*. Double click on the *note track* to make a rectangle area 
+Notice that in the timeline, a row called "Pulverisateur" has appeared. This is a *note track*. Double click on the *note track* to make a rectangle area 
 in the timeline called a *note region*. 
 Double click on the *note region* to reveal a piano roll. 
 
@@ -116,7 +116,7 @@ the length of the notes, drag the right edge of the note.
 
 |/images/placing-editing-notes.gif|
 
-Now you can create your own melody! You can do this for mulitple synthesizers and note tracks. 
+Now you can create your own melody! You can do this for multiple synthesizers and note tracks. 
 
 Arrange timeline
 ----------------

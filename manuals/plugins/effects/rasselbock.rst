@@ -52,7 +52,7 @@ Outputs
 The 5 individual outputs across the top of the Rasselbock are triggered
 or opened only when a block has been drawn onto that output's channel in
 the grid, for example, if there is a block drawn onto outputs 1 and 2
-then the signal from the Rasselbock will be outputed through outputs 1
+then the signal from the Rasselbock will be outputted through outputs 1
 and 2 (as well as the master output if plugged in) but not through
 outputs 3, 4 and 5. This makes it possible for you decide exactly when
 your arrangement will be diverted through the 5 separate outputs. They
@@ -122,7 +122,7 @@ alone.
 7.  **Stop** - Stop will stop the sample or instrument.
 8.  **Gate** - The Gate effect mimics the effect of the Gate effect
     pedal only that the Rasselbock's gate is automatically synced to the
-    rhythm of the sample or instrument which is inputed.
+    rhythm of the sample or instrument which is inputted.
 9.  **Stutter** - The Stutter effect works by taking whatever sound is
     at the start of the block and repeating it until the end of the
     block.
