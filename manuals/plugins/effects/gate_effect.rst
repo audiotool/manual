@@ -9,8 +9,7 @@ is inputted into the Gate and then a drum machine is side-chained through
 the Gate, the Gate will only become active when the drum machine makes a
 sound.
 
--  **gate** - Sets the threshold of the effect, any frequencies under
-   the gate will be muted.
+-  **gate** - Sets the threshold of the effect, any signals with gain levels below the threshold will be muted.
 -  **hold** - Allows definition of the amount of time the Gate will stay
    open after the signal falls below the given threshold.
 -  **attack** - Sets the amount of time for the Gate to change from open
