@@ -7,6 +7,15 @@ window.onload = () => {
 };
 
 {
+    // cookie banner
+    const cookieScript = document.createElement('script');
+    cookieScript.type = 'module';
+    cookieScript.textContent = `
+        import { banner } from "https://at-cdn-s04.audiotool.com/javascript/cookie-banner.js";
+        const settingsDialogue = banner();
+    `;
+    document.querySelector("head").prepend(cookieScript);
+
     // enable plausible
     const plausibleScript = new DOMParser()
         .parseFromString(
@@ -14,15 +23,4 @@ window.onload = () => {
             'text/html'
         ).querySelector("script");
     document.querySelector("head").append(plausibleScript);
-
-    // cookie banner
-    const cookieScript = document.createElement('script');
-    cookieScript.type = 'module';
-    cookieScript.textContent = `
-        console.log("cookie banner");
-        import { banner } from "https://at-cdn-s04.audiotool.com/javascript/cookie-banner.js";
-        const settingsDialogue = banner({googleTagId: "G-JBQGMZED6F"});
-        settingsDialogue.show();
-    `;
-    document.querySelector("head").prepend(cookieScript);
 }
